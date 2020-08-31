@@ -21,6 +21,8 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:ed970d4306d6e824d29a9e9e136be654.git snippets/iban_pt_nib`
 1. [snippets/reident](https://gist.github.com/serrasqueiro/31e19db1dba146e512e4ea39c2c76279),
    + `git submodule add git@gist.github.com:31e19db1dba146e512e4ea39c2c76279.git snippets/reident`
+1. [snippets/fastexcel](https://gist.github.com/serrasqueiro/fa9188a3fe219ef3e72371a00c633192),
+   + `git submodule add git@gist.github.com:fa9188a3fe219ef3e72371a00c633192.git snippets/fastexcel`
 1. [snippets/grelha-meo](https://gist.github.com/serrasqueiro/4537fea8688ee2712171dd71c5684079),
    + `git submodule add git@gist.github.com:4537fea8688ee2712171dd71c5684079.git snippets/grelha-meo`
 1. [snippets/simple pop list](https://gist.github.com/serrasqueiro/5f5d9595b0b4020bdf1f337734f4c5a6),
