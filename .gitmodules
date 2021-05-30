@@ -1,0 +1,9 @@
+[submodule "snippets/iban_pt_nib"]
+	path = snippets/iban_pt_nib
+	url = git@gist.github.com:ed970d4306d6e824d29a9e9e136be654.git
+[submodule "snippets/reident"]
+	path = snippets/reident
+	url = git@gist.github.com:31e19db1dba146e512e4ea39c2c76279.git
+[submodule "snippets/grelha-meo"]
+	path = snippets/grelha-meo
+	url = git@gist.github.com:4537fea8688ee2712171dd71c5684079.git
