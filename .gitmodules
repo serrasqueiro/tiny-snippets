@@ -10,3 +10,6 @@
 [submodule "snippets/simple_pop_list"]
 	path = snippets/simple_pop_list
 	url = git@gist.github.com:5f5d9595b0b4020bdf1f337734f4c5a6.git
+[submodule "snippets/secs_text"]
+	path = snippets/secs_text
+	url = git@gist.github.com:c32c1579ad163d8c5c7f34eda28b208d.git

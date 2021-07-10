@@ -15,3 +15,6 @@ Here are the list of historical adds.
 1. `git submodule add git@gist.github.com:ed970d4306d6e824d29a9e9e136be654.git snippets/iban_pt_nib	# git@gitlab.com:anaceo/snippets/iban_pt_nib.git`
 1. `git submodule add git@gist.github.com:31e19db1dba146e512e4ea39c2c76279.git snippets/reident`
 1. `git submodule add git@gist.github.com:4537fea8688ee2712171dd71c5684079.git snippets/grelha-meo`
+1. `git submodule add git@gist.github.com:5f5d9595b0b4020bdf1f337734f4c5a6.git snippets/simple_pop_list`
+1. `git submodule add git@gist.github.com:c32c1579ad163d8c5c7f34eda28b208d.git snippets/secs_text`
+
