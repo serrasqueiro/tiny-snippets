@@ -22,6 +22,8 @@ def run(args:list) -> int:
     astr, _ = dump_subs("""
 ## Log history
 
+Original [github](https://github.com/) repo [here](https://github.com/serrasqueiro/tiny-snippets/).
+
 Here are the list of historical adds.
 """, within, git_modules_fname, sys.stderr)
     if not astr:
@@ -37,6 +39,7 @@ def dump_subs(pre:str, within:str, fname:str, out) -> tuple:
     astr = pre
     subs = ""
     last = ""
+    blanked = " " * 3
     for aline in open(fname, "r").readlines():
         line = aline.strip()
         if line.startswith("["):	# [submodule "abc/def"]
@@ -48,13 +51,21 @@ def dump_subs(pre:str, within:str, fname:str, out) -> tuple:
         if pos < 0:
             continue
         rest = line.split("url = ", maxsplit=1)[1].strip()
+        dock = rest.split(":")[-1].split(".git")[0]
         sub = f" {last}" if last else ""
-        astr += "1. `" + within + rest + sub + "`\n"
+        s_url = f"[{better_path(last)}](https://gist.github.com/serrasqueiro/{dock})"
+        if s_url:
+            s_url = s_url + f",\n{blanked}+ "
+        astr += f"1. {s_url}`" + within + rest + sub + "`\n"
         subs += rest + "\n"
         if out:
             out.write(f"{line}\n")
     tup = (astr, subs)
     return tup
+
+def better_path(astr:str) -> str:
+    result = astr.replace("_", " ")
+    return result
 
 if __name__=="__main__":
     main()

@@ -13,3 +13,6 @@
 [submodule "snippets/secs_text"]
 	path = snippets/secs_text
 	url = git@gist.github.com:c32c1579ad163d8c5c7f34eda28b208d.git
+[submodule "snippets/states_hash"]
+	path = snippets/states_hash
+	url = git@gist.github.com:4de2939130d187e1b44965298c56d6c7.git
