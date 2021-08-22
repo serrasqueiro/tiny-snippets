@@ -16,3 +16,6 @@
 [submodule "snippets/states_hash"]
 	path = snippets/states_hash
 	url = git@gist.github.com:4de2939130d187e1b44965298c56d6c7.git
+[submodule "snippets/ls_colors"]
+	path = snippets/ls_colors
+	url = git@gist.github.com:3cc4239e666baa4d8499cede47fc1f65.git
