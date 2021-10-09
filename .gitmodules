@@ -22,3 +22,6 @@
 [submodule "snippets/snippets/ux_colors"]
 	path = snippets/snippets/ux_colors
 	url = git@gist.github.com:717a2868b55275925784f9b3e874bcfe.git
+[submodule "snippets/sampledates"]
+	path = snippets/sampledates
+	url = git@gist.github.com:5c1a96781b401473025448c8473bd6f5.git

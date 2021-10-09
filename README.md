@@ -25,4 +25,9 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:c32c1579ad163d8c5c7f34eda28b208d.git snippets/secs_text`
 1. [snippets/states hash](https://gist.github.com/serrasqueiro/4de2939130d187e1b44965298c56d6c7),
    + `git submodule add git@gist.github.com:4de2939130d187e1b44965298c56d6c7.git snippets/states_hash`
-
+1. [snippets/ls colors](https://gist.github.com/serrasqueiro/3cc4239e666baa4d8499cede47fc1f65),
+   + `git submodule add git@gist.github.com:3cc4239e666baa4d8499cede47fc1f65.git snippets/ls_colors`
+1. [snippets/snippets/ux colors](https://gist.github.com/serrasqueiro/717a2868b55275925784f9b3e874bcfe),
+   + `git submodule add git@gist.github.com:717a2868b55275925784f9b3e874bcfe.git snippets/snippets/ux_colors`
+1. [snippets/sampledates](https://gist.github.com/serrasqueiro/5c1a96781b401473025448c8473bd6f5),
+   + `git submodule add git@gist.github.com:5c1a96781b401473025448c8473bd6f5.git snippets/sampledates`
