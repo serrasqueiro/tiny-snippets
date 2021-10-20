@@ -25,3 +25,6 @@
 [submodule "snippets/sampledates"]
 	path = snippets/sampledates
 	url = git@gist.github.com:5c1a96781b401473025448c8473bd6f5.git
+[submodule "snippets/slb_dates"]
+	path = snippets/slb_dates
+	url = git@gist.github.com:00aa98ed3a54f348fd5afdee81d8da6f.git
