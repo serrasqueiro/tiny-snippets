@@ -28,3 +28,6 @@
 [submodule "snippets/slb_dates"]
 	path = snippets/slb_dates
 	url = git@gist.github.com:00aa98ed3a54f348fd5afdee81d8da6f.git
+[submodule "snippets/from_java_cc_map"]
+	path = snippets/from_java_cc_map
+	url = git@gist.github.com:2067e139bab4ed177c145921df28ba03.git
