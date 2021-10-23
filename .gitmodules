@@ -31,3 +31,6 @@
 [submodule "snippets/from_java_cc_map"]
 	path = snippets/from_java_cc_map
 	url = git@gist.github.com:2067e139bab4ed177c145921df28ba03.git
+[submodule "snippets/country_calling_codes"]
+	path = snippets/country_calling_codes
+	url = git@gist.github.com:0bafc120f8e622a221e01f4b5221c718.git

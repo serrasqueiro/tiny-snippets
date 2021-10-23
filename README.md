@@ -33,3 +33,7 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:5c1a96781b401473025448c8473bd6f5.git snippets/sampledates`
 1. [snippets/slb dates](https://gist.github.com/serrasqueiro/00aa98ed3a54f348fd5afdee81d8da6f),
    + `git submodule add git@gist.github.com:00aa98ed3a54f348fd5afdee81d8da6f.git snippets/slb_dates`
+1. [snippets/from java cc map](https://gist.github.com/serrasqueiro/2067e139bab4ed177c145921df28ba03),
+   + `git submodule add git@gist.github.com:2067e139bab4ed177c145921df28ba03.git snippets/from_java_cc_map`
+1. [snippets/country calling codes](https://gist.github.com/serrasqueiro/0bafc120f8e622a221e01f4b5221c718),
+   + `git submodule add git@gist.github.com:0bafc120f8e622a221e01f4b5221c718.git snippets/country_calling_codes`
