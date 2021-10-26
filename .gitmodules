@@ -34,3 +34,6 @@
 [submodule "snippets/country_calling_codes"]
 	path = snippets/country_calling_codes
 	url = git@gist.github.com:0bafc120f8e622a221e01f4b5221c718.git
+[submodule "snippets/url_timeanddate"]
+	path = snippets/url_timeanddate
+	url = git@gist.github.com:70d2f1e4b149ef9fc6701ae7474e9d71.git
