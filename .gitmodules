@@ -20,7 +20,7 @@
 	path = snippets/ls_colors
 	url = git@gist.github.com:3cc4239e666baa4d8499cede47fc1f65.git
 [submodule "snippets/snippets/ux_colors"]
-	path = snippets/snippets/ux_colors
+	path = snippets/ux_colors
 	url = git@gist.github.com:717a2868b55275925784f9b3e874bcfe.git
 [submodule "snippets/sampledates"]
 	path = snippets/sampledates
