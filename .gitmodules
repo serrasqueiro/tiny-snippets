@@ -37,3 +37,6 @@
 [submodule "snippets/url_timeanddate"]
 	path = snippets/url_timeanddate
 	url = git@gist.github.com:70d2f1e4b149ef9fc6701ae7474e9d71.git
+[submodule "snippets/kitty"]
+	path = snippets/kitty
+	url = git@gist.github.com:0e4146eb59fe1cdfdd91477faf28747c.git
