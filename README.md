@@ -50,3 +50,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:d14e1805947a61d81e72a117b22aedeb.git snippets/vboxsf_mounting_workaround`
 1. [snippets/risco](https://gist.github.com/serrasqueiro/bb5c87a0d45947d056e7c1e0f05e9852),
    + `git submodule add git@gist.github.com:bb5c87a0d45947d056e7c1e0f05e9852.git snippets/risco`
+1. [snippets/risk](https://gist.github.com/serrasqueiro/7011cdf094746f44bf3be47d4f8bcfd4),
+   + `git submodule add git@gist.github.com:7011cdf094746f44bf3be47d4f8bcfd4.git snippets/risk`

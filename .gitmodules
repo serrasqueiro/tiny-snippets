@@ -1,3 +1,6 @@
+[submodule "misc/keepit"]
+	path = misc/keepit
+	url = git@github.com:serrasqueiro/keepit.git
 [submodule "snippets/iban_pt_nib"]
 	path = snippets/iban_pt_nib
 	url = git@gist.github.com:ed970d4306d6e824d29a9e9e136be654.git
@@ -46,6 +49,6 @@
 [submodule "snippets/risco"]
 	path = snippets/risco
 	url = git@gist.github.com:bb5c87a0d45947d056e7c1e0f05e9852.git
-[submodule "misc/keepit"]
-	path = misc/keepit
-	url = git@github.com:serrasqueiro/keepit.git
+[submodule "snippets/risk"]
+	path = snippets/risk
+	url = git@gist.github.com:7011cdf094746f44bf3be47d4f8bcfd4.git
