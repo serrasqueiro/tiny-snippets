@@ -13,8 +13,6 @@ When reaching here, do:
 Original [github](https://github.com/) repo [here](https://github.com/serrasqueiro/tiny-snippets/).
 
 Bigger submodule(s):
-1. [snippets/risco](https://gist.github.com/serrasqueiro/bb5c87a0d45947d056e7c1e0f05e9852),
-   + `git submodule add git@gist.github.com:bb5c87a0d45947d056e7c1e0f05e9852.git snippets/risco`
 1. [misc/keepit](https://gist.github.com/serrasqueiro/serrasqueiro/keepit),
    + `git submodule add git@github.com:serrasqueiro/keepit.git misc/keepit`
 
