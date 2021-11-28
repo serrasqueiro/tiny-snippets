@@ -9,17 +9,22 @@ Shows sub-modules listed at .gitmodules, to be added on README.md
 
 import sys
 
+SHOW_NEW_ONLY = True
+
+
 def main():
     """ Main function """
     run(sys.argv[1:])
 
 def run(args:list) -> int:
+    """ Main script """
+    hashes = hashes_there()
     fname = args[0] if args else ".gitmodules"
     if len(args) > 1:
         return -1
     git_modules_fname = fname
     within = "git submodule add "
-    astr, _ = dump_subs("""
+    news, astr, _ = dump_subs(hashes, """
 ## Log history
 
 Original [github](https://github.com/) repo [here](https://github.com/serrasqueiro/tiny-snippets/).
@@ -28,16 +33,19 @@ Here are the list of historical adds.
 """, within, git_modules_fname, sys.stderr)
     if not astr:
         return 2
-    print(astr)
+    if SHOW_NEW_ONLY:
+        print(news)
+    else:
+        print(astr)
     return 0
 
-def dump_subs(pre:str, within:str, fname:str, out) -> tuple:
+def dump_subs(hashes, pre:str, within:str, fname:str, out) -> tuple:
     """ Returns a pair:
         - complete git add module lines
         - sub-modules
     """
     astr = pre
-    subs = ""
+    news, subs = "", ""
     last = ""
     blanked = " " * 3
     for aline in open(fname, "r").readlines():
@@ -56,16 +64,35 @@ def dump_subs(pre:str, within:str, fname:str, out) -> tuple:
         s_url = f"[{better_path(last)}](https://gist.github.com/serrasqueiro/{dock})"
         if s_url:
             s_url = s_url + f",\n{blanked}+ "
-        astr += f"1. {s_url}`" + within + rest + sub + "`\n"
+        astring = f"1. {s_url}`" + within + rest + sub + "`\n"
+        astr += astring
+        if hashes and rest in hashes:
+            # The line already exists
+            pass
+        else:
+            news += astring
         subs += rest + "\n"
         if out:
             out.write(f"{line}\n")
-    tup = (astr, subs)
-    return tup
+    return (news, astr, subs)
 
 def better_path(astr:str) -> str:
     result = astr.replace("_", " ")
     return result
+
+def hashes_there(fname:str=""):
+    magic_str = "git@gist.github.com:"
+    path = fname if fname else "README.md"
+    lines = open(path, "r", encoding="ISO-8859-1").read().splitlines()
+    hashes = []
+    for line in lines:
+        if magic_str not in line:
+            continue
+        hash = line.split(":", maxsplit=1)[1].split(" ")[0]
+        assert hash
+        hashes.append(magic_str + hash)
+    return hashes
+
 
 if __name__=="__main__":
     main()

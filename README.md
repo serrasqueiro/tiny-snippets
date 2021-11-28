@@ -40,3 +40,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:0bafc120f8e622a221e01f4b5221c718.git snippets/country_calling_codes`
 1. [snippets/url timeanddate](https://gist.github.com/serrasqueiro/70d2f1e4b149ef9fc6701ae7474e9d71),
    + `git submodule add git@gist.github.com:70d2f1e4b149ef9fc6701ae7474e9d71.git snippets/url_timeanddate`
+1. [snippets/kitty](https://gist.github.com/serrasqueiro/0e4146eb59fe1cdfdd91477faf28747c),
+   + `git submodule add git@gist.github.com:0e4146eb59fe1cdfdd91477faf28747c.git snippets/kitty`
