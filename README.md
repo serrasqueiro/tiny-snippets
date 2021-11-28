@@ -12,6 +12,12 @@ When reaching here, do:
 
 Original [github](https://github.com/) repo [here](https://github.com/serrasqueiro/tiny-snippets/).
 
+Bigger submodule(s):
+1. [snippets/risco](https://gist.github.com/serrasqueiro/bb5c87a0d45947d056e7c1e0f05e9852),
+   + `git submodule add git@gist.github.com:bb5c87a0d45947d056e7c1e0f05e9852.git snippets/risco`
+1. [misc/keepit](https://gist.github.com/serrasqueiro/serrasqueiro/keepit),
+   + `git submodule add git@github.com:serrasqueiro/keepit.git misc/keepit`
+
 Here are the list of historical adds.
 1. [snippets/iban pt nib](https://gist.github.com/serrasqueiro/ed970d4306d6e824d29a9e9e136be654),
    + `git submodule add git@gist.github.com:ed970d4306d6e824d29a9e9e136be654.git snippets/iban_pt_nib`
@@ -44,4 +50,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:0e4146eb59fe1cdfdd91477faf28747c.git snippets/kitty`
 1. [snippets/vboxsf mounting workaround](https://gist.github.com/serrasqueiro/d14e1805947a61d81e72a117b22aedeb),
    + `git submodule add git@gist.github.com:d14e1805947a61d81e72a117b22aedeb.git snippets/vboxsf_mounting_workaround`
-
+1. [snippets/risco](https://gist.github.com/serrasqueiro/bb5c87a0d45947d056e7c1e0f05e9852),
+   + `git submodule add git@gist.github.com:bb5c87a0d45947d056e7c1e0f05e9852.git snippets/risco`

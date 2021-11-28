@@ -66,6 +66,8 @@ def dump_subs(hashes, pre:str, within:str, fname:str, out) -> tuple:
         if s_url:
             s_url = s_url + f",\n{blanked}+ "
         astring = f"1. {s_url}`" + within + rest + sub + "`\n"
+        if "misc/keepit" in astring:
+            astring = ""
         astr += astring
         if hashes and rest in hashes:
             # The line already exists
