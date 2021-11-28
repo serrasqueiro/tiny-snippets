@@ -43,3 +43,6 @@
 [submodule "snippets/vboxsf_mounting_workaround"]
 	path = snippets/vboxsf_mounting_workaround
 	url = git@gist.github.com:d14e1805947a61d81e72a117b22aedeb.git
+[submodule "snippets/risco"]
+	path = snippets/risco
+	url = git@gist.github.com:bb5c87a0d45947d056e7c1e0f05e9852.git
