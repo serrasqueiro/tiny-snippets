@@ -8,6 +8,7 @@ Shows sub-modules listed at .gitmodules, to be added on README.md
 # pylint: disable=missing-docstring
 
 import sys
+import os.path
 
 SHOW_NEW_ONLY = True
 
@@ -85,12 +86,19 @@ def hashes_there(fname:str=""):
     path = fname if fname else "README.md"
     lines = open(path, "r", encoding="ISO-8859-1").read().splitlines()
     hashes = []
+    last = ""
     for line in lines:
         if magic_str not in line:
+            last = line
             continue
         hash = line.split(":", maxsplit=1)[1].split(" ")[0]
         assert hash
+        assert last.startswith("1. ["), f"Invalid last: '{last}'"
+        sub_dir = last[len("1. ["):].split("]")[0].replace(" ", "_")
+        if not os.path.isdir(sub_dir):
+            print("#Warn:", "Not a sub dir:", sub_dir)
         hashes.append(magic_str + hash)
+        last = line
     return hashes
 
 
