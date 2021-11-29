@@ -52,3 +52,6 @@
 [submodule "snippets/risk"]
 	path = snippets/risk
 	url = git@gist.github.com:7011cdf094746f44bf3be47d4f8bcfd4.git
+[submodule "snippets/scrabble_pt"]
+	path = snippets/scrabble_pt
+	url = git@gist.github.com:f816a81f15be86e7f4e49e1a99bd8424.git
