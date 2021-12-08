@@ -55,3 +55,6 @@
 [submodule "snippets/scrabble_pt"]
 	path = snippets/scrabble_pt
 	url = git@gist.github.com:f816a81f15be86e7f4e49e1a99bd8424.git
+[submodule "snippets/meogonicks"]
+	path = snippets/meogonicks
+	url = git@gist.github.com:2aa675bf3deb13e5463554ac39b8fccd.git
