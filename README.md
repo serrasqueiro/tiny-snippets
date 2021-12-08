@@ -52,3 +52,4 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:bb5c87a0d45947d056e7c1e0f05e9852.git snippets/risco`
 1. [snippets/risk](https://gist.github.com/serrasqueiro/7011cdf094746f44bf3be47d4f8bcfd4),
    + `git submodule add git@gist.github.com:7011cdf094746f44bf3be47d4f8bcfd4.git snippets/risk`
+   + `git submodule add git@gist.github.com:f816a81f15be86e7f4e49e1a99bd8424.git snippets/scrabble_pt`
