@@ -58,3 +58,6 @@
 [submodule "snippets/meogonicks"]
 	path = snippets/meogonicks
 	url = git@gist.github.com:2aa675bf3deb13e5463554ac39b8fccd.git
+[submodule "snippets/dateformats"]
+	path = snippets/dateformats
+	url = git@gist.github.com:94271c78dd6873fb5d0ad97d28806614.git
