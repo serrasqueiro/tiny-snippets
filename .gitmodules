@@ -70,3 +70,6 @@
 [submodule "snippets/asciis"]
 	path = snippets/asciis
 	url = git@gist.github.com:0714e9d04039e5c29dedc60a1bd57f6e.git
+[submodule "snippets/timeanddate_calendars"]
+	path = snippets/timeanddate_calendars
+	url = git@gist.github.com:c634bade7d0fd53a4ccdf016bad0c3e2.git
