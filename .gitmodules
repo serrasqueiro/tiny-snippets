@@ -67,3 +67,6 @@
 [submodule "snippets/git_svnst"]
 	path = snippets/git_svnst
 	url = git@gist.github.com:b9591fac25f741b87c8560de5153457b.git
+[submodule "snippets/asciis"]
+	path = snippets/asciis
+	url = git@gist.github.com:0714e9d04039e5c29dedc60a1bd57f6e.git

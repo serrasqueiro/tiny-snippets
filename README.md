@@ -60,6 +60,8 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:94271c78dd6873fb5d0ad97d28806614.git snippets/dateformats`
 1. [snippets/git svnst](https://gist.github.com/serrasqueiro/b9591fac25f741b87c8560de5153457b),
    + `git submodule add git@gist.github.com:b9591fac25f741b87c8560de5153457b.git snippets/git_svnst`
+1. [snippets/asciis](https://gist.github.com/serrasqueiro/0714e9d04039e5c29dedc60a1bd57f6e),
+   + `git submodule add git@gist.github.com:0714e9d04039e5c29dedc60a1bd57f6e.git snippets/asciis`
 
 1. [snippets/risk](https://gist.github.com/serrasqueiro/7011cdf094746f44bf3be47d4f8bcfd4),
    + `git submodule add git@gist.github.com:7011cdf094746f44bf3be47d4f8bcfd4.git snippets/risk`
