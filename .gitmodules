@@ -73,3 +73,6 @@
 [submodule "snippets/timeanddate_calendars"]
 	path = snippets/timeanddate_calendars
 	url = git@gist.github.com:c634bade7d0fd53a4ccdf016bad0c3e2.git
+[submodule "snippets/farmacias"]
+	path = snippets/farmacias
+	url = git@gist.github.com:4d4a36d4cf53ddb5987fb9607b6ceee5.git
