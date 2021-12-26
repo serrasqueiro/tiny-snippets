@@ -76,3 +76,6 @@
 [submodule "snippets/farmacias"]
 	path = snippets/farmacias
 	url = git@gist.github.com:4d4a36d4cf53ddb5987fb9607b6ceee5.git
+[submodule "snippets/curiosity"]
+	path = snippets/curiosity
+	url = git@gist.github.com:f55bb4a18dabaabd82f05d3b2a3b8f24.git

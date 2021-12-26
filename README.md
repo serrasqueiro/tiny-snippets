@@ -66,6 +66,8 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:c634bade7d0fd53a4ccdf016bad0c3e2.git snippets/timeanddate_calendars`
 1. [snippets/farmacias](https://gist.github.com/serrasqueiro/4d4a36d4cf53ddb5987fb9607b6ceee5),
    + `git submodule add git@gist.github.com:4d4a36d4cf53ddb5987fb9607b6ceee5.git snippets/farmacias`
+1. [snippets/curiosity](https://gist.github.com/serrasqueiro/f55bb4a18dabaabd82f05d3b2a3b8f24),
+   + `git submodule add git@gist.github.com:f55bb4a18dabaabd82f05d3b2a3b8f24.git snippets/curiosity`
 
 1. [snippets/risk](https://gist.github.com/serrasqueiro/7011cdf094746f44bf3be47d4f8bcfd4),
    + `git submodule add git@gist.github.com:7011cdf094746f44bf3be47d4f8bcfd4.git snippets/risk`
