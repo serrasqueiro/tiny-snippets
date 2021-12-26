@@ -13,7 +13,7 @@ When reaching here, do:
 Original [github](https://github.com/) repo [here](https://github.com/serrasqueiro/tiny-snippets/).
 
 Bigger submodule(s):
-1. [misc/keepit](https://gist.github.com/serrasqueiro/keepit),
+1. [misc/keepit](https://github.com/serrasqueiro/keepit),
    + `git submodule add git@github.com:serrasqueiro/keepit.git misc/keepit`
 
 Here are the list of historical adds.
