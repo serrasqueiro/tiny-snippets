@@ -79,3 +79,6 @@
 [submodule "snippets/curiosity"]
 	path = snippets/curiosity
 	url = git@gist.github.com:f55bb4a18dabaabd82f05d3b2a3b8f24.git
+[submodule "snippets/links"]
+	path = snippets/links
+	url = git@gist.github.com:e9a6299636e40ca20c370b26c4b17830.git
