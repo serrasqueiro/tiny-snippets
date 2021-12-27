@@ -82,3 +82,6 @@
 [submodule "snippets/links"]
 	path = snippets/links
 	url = git@gist.github.com:e9a6299636e40ca20c370b26c4b17830.git
+[submodule "snippets/gist_url"]
+	path = snippets/gist_url
+	url = git@gist.github.com:08c51698a7668abba4ed6910f9a16ce3.git
