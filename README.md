@@ -17,6 +17,8 @@ Bigger submodule(s):
    + `git submodule add git@github.com:serrasqueiro/keepit.git misc/keepit`
 
 Here are the list of historical adds.
+1. [snippets/gist url](https://gist.github.com/serrasqueiro/08c51698a7668abba4ed6910f9a16ce3),
+   + `git submodule add git@gist.github.com:08c51698a7668abba4ed6910f9a16ce3.git snippets/gist_url`
 1. [snippets/iban pt nib](https://gist.github.com/serrasqueiro/ed970d4306d6e824d29a9e9e136be654),
    + `git submodule add git@gist.github.com:ed970d4306d6e824d29a9e9e136be654.git snippets/iban_pt_nib`
 1. [snippets/reident](https://gist.github.com/serrasqueiro/31e19db1dba146e512e4ea39c2c76279),
@@ -68,6 +70,8 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:4d4a36d4cf53ddb5987fb9607b6ceee5.git snippets/farmacias`
 1. [snippets/curiosity](https://gist.github.com/serrasqueiro/f55bb4a18dabaabd82f05d3b2a3b8f24),
    + `git submodule add git@gist.github.com:f55bb4a18dabaabd82f05d3b2a3b8f24.git snippets/curiosity`
+1. [snippets/links](https://gist.github.com/serrasqueiro/e9a6299636e40ca20c370b26c4b17830),
+   + `git submodule add git@gist.github.com:e9a6299636e40ca20c370b26c4b17830.git snippets/links`
 
 1. [snippets/risk](https://gist.github.com/serrasqueiro/7011cdf094746f44bf3be47d4f8bcfd4),
    + `git submodule add git@gist.github.com:7011cdf094746f44bf3be47d4f8bcfd4.git snippets/risk`
