@@ -91,3 +91,6 @@
 [submodule "snippets/local_networks"]
 	path = snippets/local_networks
 	url = git@gist.github.com:7d5781c554f163112ca8910e7b6b1fc9.git
+[submodule "snippets/python_real"]
+	path = snippets/python_real
+	url = git@gist.github.com:bb335f02558d405cc893483e92571dab.git
