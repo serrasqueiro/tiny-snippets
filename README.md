@@ -78,6 +78,8 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:5a54eb09d36611ac45610460182d6451.git snippets/periodic_table`
 1. [snippets/python real](https://gist.github.com/serrasqueiro/bb335f02558d405cc893483e92571dab),
    + `git submodule add git@gist.github.com:bb335f02558d405cc893483e92571dab.git snippets/python_real`
+1. [snippets/lista recibos](https://gist.github.com/serrasqueiro/8e0d3c59dd09f1485272ca5607c72a42),
+   + `git submodule add git@gist.github.com:8e0d3c59dd09f1485272ca5607c72a42.git snippets/lista_recibos`
 
 1. [snippets/risk](https://gist.github.com/serrasqueiro/7011cdf094746f44bf3be47d4f8bcfd4),
    + `git submodule add git@gist.github.com:7011cdf094746f44bf3be47d4f8bcfd4.git snippets/risk`

@@ -94,3 +94,6 @@
 [submodule "snippets/python_real"]
 	path = snippets/python_real
 	url = git@gist.github.com:bb335f02558d405cc893483e92571dab.git
+[submodule "snippets/lista_recibos"]
+	path = snippets/lista_recibos
+	url = git@gist.github.com:8e0d3c59dd09f1485272ca5607c72a42.git
