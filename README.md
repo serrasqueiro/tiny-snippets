@@ -58,6 +58,8 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:f816a81f15be86e7f4e49e1a99bd8424.git snippets/scrabble_pt`
 1. [snippets/meogonicks](https://gist.github.com/serrasqueiro/2aa675bf3deb13e5463554ac39b8fccd),
    + `git submodule add git@gist.github.com:2aa675bf3deb13e5463554ac39b8fccd.git snippets/meogonicks`
+1. [snippets/meogonicks-info](https://gist.github.com/serrasqueiro/5aeb458f66e7499e76f7de1443df482f),
+   + `git submodule add git@gist.github.com:5aeb458f66e7499e76f7de1443df482f.git snippets/meogonicks-info`
 1. [snippets/dateformats](https://gist.github.com/serrasqueiro/94271c78dd6873fb5d0ad97d28806614),
    + `git submodule add git@gist.github.com:94271c78dd6873fb5d0ad97d28806614.git snippets/dateformats`
 1. [snippets/git svnst](https://gist.github.com/serrasqueiro/b9591fac25f741b87c8560de5153457b),

@@ -97,3 +97,9 @@
 [submodule "snippets/lista_recibos"]
 	path = snippets/lista_recibos
 	url = git@gist.github.com:8e0d3c59dd09f1485272ca5607c72a42.git
+[submodule "snippets/arts"]
+	path = snippets/arts
+	url = git@gist.github.com:f00b3ebc9f455a2bdb123a738b117b0c.git
+[submodule "snippets/meogonicks-info"]
+	path = snippets/meogonicks-info
+	url = git@gist.github.com:5aeb458f66e7499e76f7de1443df482f.git
