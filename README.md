@@ -82,6 +82,10 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:bb335f02558d405cc893483e92571dab.git snippets/python_real`
 1. [snippets/lista recibos](https://gist.github.com/serrasqueiro/8e0d3c59dd09f1485272ca5607c72a42),
    + `git submodule add git@gist.github.com:8e0d3c59dd09f1485272ca5607c72a42.git snippets/lista_recibos`
+1. [snippets/arts](https://gist.github.com/serrasqueiro/f00b3ebc9f455a2bdb123a738b117b0c),
+   + `git submodule add git@gist.github.com:f00b3ebc9f455a2bdb123a738b117b0c.git snippets/arts`
+1. [snippets/lambda howto](https://gist.github.com/serrasqueiro/7fe2d7c44a321933fdca36abd6c991f9),
+   + `git submodule add git@gist.github.com:7fe2d7c44a321933fdca36abd6c991f9.git snippets/lambda_howto`
 
 1. [snippets/risk](https://gist.github.com/serrasqueiro/7011cdf094746f44bf3be47d4f8bcfd4),
    + `git submodule add git@gist.github.com:7011cdf094746f44bf3be47d4f8bcfd4.git snippets/risk`

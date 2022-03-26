@@ -103,3 +103,6 @@
 [submodule "snippets/meogonicks-info"]
 	path = snippets/meogonicks-info
 	url = git@gist.github.com:5aeb458f66e7499e76f7de1443df482f.git
+[submodule "snippets/lambda_howto"]
+	path = snippets/lambda_howto
+	url = git@gist.github.com:7fe2d7c44a321933fdca36abd6c991f9.git
