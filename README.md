@@ -19,6 +19,8 @@ Bigger submodule(s):
 Here are the list of historical adds.
 1. [snippets/gist url](https://gist.github.com/serrasqueiro/08c51698a7668abba4ed6910f9a16ce3),
    + `git submodule add git@gist.github.com:08c51698a7668abba4ed6910f9a16ce3.git snippets/gist_url`
+1. [snippets/git packers](https://gist.github.com/serrasqueiro/3b5705682767e04a4b4516da500c0930),
+   + `git submodule add git@gist.github.com:3b5705682767e04a4b4516da500c0930.git snippets/git_packers`
 1. [snippets/iban pt nib](https://gist.github.com/serrasqueiro/ed970d4306d6e824d29a9e9e136be654),
    + `git submodule add git@gist.github.com:ed970d4306d6e824d29a9e9e136be654.git snippets/iban_pt_nib`
 1. [snippets/reident](https://gist.github.com/serrasqueiro/31e19db1dba146e512e4ea39c2c76279),

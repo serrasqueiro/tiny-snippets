@@ -106,3 +106,6 @@
 [submodule "snippets/lambda_howto"]
 	path = snippets/lambda_howto
 	url = git@gist.github.com:7fe2d7c44a321933fdca36abd6c991f9.git
+[submodule "snippets/git_packers"]
+	path = snippets/git_packers
+	url = git@gist.github.com:3b5705682767e04a4b4516da500c0930.git
