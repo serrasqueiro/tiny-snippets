@@ -112,3 +112,9 @@
 [submodule "snippets/dice_art"]
 	path = snippets/dice_art
 	url = git@gist.github.com:234642475cc617dbaec10c69ad12b159.git
+[submodule "snippets/piban"]
+	path = snippets/piban
+	url = git@gist.github.com:380a38dc0b7b6f50b9442b8d6a4283fe.git
+[submodule "snippets/pub_nipc"]
+	path = snippets/pub_nipc
+	url = git@gist.github.com:1553a7f844d0d776e41a1c4da1f44611.git

@@ -88,6 +88,12 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:f00b3ebc9f455a2bdb123a738b117b0c.git snippets/arts`
 1. [snippets/lambda howto](https://gist.github.com/serrasqueiro/7fe2d7c44a321933fdca36abd6c991f9),
    + `git submodule add git@gist.github.com:7fe2d7c44a321933fdca36abd6c991f9.git snippets/lambda_howto`
+1. [snippets/dice art](https://gist.github.com/serrasqueiro/234642475cc617dbaec10c69ad12b159),
+   + `git submodule add git@gist.github.com:234642475cc617dbaec10c69ad12b159.git snippets/dice_art`
+1. [snippets/piban](https://gist.github.com/serrasqueiro/380a38dc0b7b6f50b9442b8d6a4283fe),
+   + `git submodule add git@gist.github.com:380a38dc0b7b6f50b9442b8d6a4283fe.git snippets/piban`
+1. [snippets/pub nipc](https://gist.github.com/serrasqueiro/1553a7f844d0d776e41a1c4da1f44611),
+   + `git submodule add git@gist.github.com:1553a7f844d0d776e41a1c4da1f44611.git snippets/pub_nipc`
 
 1. [snippets/risk](https://gist.github.com/serrasqueiro/7011cdf094746f44bf3be47d4f8bcfd4),
    + `git submodule add git@gist.github.com:7011cdf094746f44bf3be47d4f8bcfd4.git snippets/risk`
