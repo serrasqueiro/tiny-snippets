@@ -118,3 +118,6 @@
 [submodule "snippets/pub_nipc"]
 	path = snippets/pub_nipc
 	url = git@gist.github.com:1553a7f844d0d776e41a1c4da1f44611.git
+[submodule "snippets/deezing"]
+	path = snippets/deezing
+	url = git@gist.github.com:46290b9552a8d401ebe4b7921fee1a1a.git
