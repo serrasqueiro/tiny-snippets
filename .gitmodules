@@ -121,3 +121,6 @@
 [submodule "snippets/deezing"]
 	path = snippets/deezing
 	url = git@gist.github.com:46290b9552a8d401ebe4b7921fee1a1a.git
+[submodule "snippets/gitouch"]
+	path = snippets/gitouch
+	url = git@gist.github.com:9ab37fc6b58cc331f681f9959e16ef77.git
