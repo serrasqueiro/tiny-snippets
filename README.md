@@ -100,6 +100,8 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:d58f203bd3a11eead463605e8182c589.git snippets/nibans`
 1. [snippets/deezing](https://gist.github.com/serrasqueiro/46290b9552a8d401ebe4b7921fee1a1a),
    + `git submodule add git@gist.github.com:46290b9552a8d401ebe4b7921fee1a1a.git snippets/deezing`
+1. [snippets/alias git](https://gist.github.com/serrasqueiro/39ba0f48364b734cb9bd4637301306c2),
+   + `git submodule add git@gist.github.com:39ba0f48364b734cb9bd4637301306c2.git snippets/alias_git`
 
 1. [snippets/risk](https://gist.github.com/serrasqueiro/7011cdf094746f44bf3be47d4f8bcfd4),
    + `git submodule add git@gist.github.com:7011cdf094746f44bf3be47d4f8bcfd4.git snippets/risk`
