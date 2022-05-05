@@ -127,3 +127,6 @@
 [submodule "snippets/nibans"]
 	path = snippets/nibans
 	url = git@gist.github.com:d58f203bd3a11eead463605e8182c589.git
+[submodule "snippets/alias_git"]
+	path = snippets/alias_git
+	url = git@gist.github.com:39ba0f48364b734cb9bd4637301306c2.git
