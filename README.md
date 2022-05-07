@@ -92,6 +92,8 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:234642475cc617dbaec10c69ad12b159.git snippets/dice_art`
 1. [snippets/piban](https://gist.github.com/serrasqueiro/380a38dc0b7b6f50b9442b8d6a4283fe),
    + `git submodule add git@gist.github.com:380a38dc0b7b6f50b9442b8d6a4283fe.git snippets/piban`
+1. [snippets/iban howto](https://gist.github.com/serrasqueiro/771d58360164b224122ea62cc577518b),
+   + `git submodule add git@gist.github.com:771d58360164b224122ea62cc577518b.git snippets/iban_howto`
 1. [snippets/pub nipc](https://gist.github.com/serrasqueiro/1553a7f844d0d776e41a1c4da1f44611),
    + `git submodule add git@gist.github.com:1553a7f844d0d776e41a1c4da1f44611.git snippets/pub_nipc`
 1. [snippets/gitouch](https://gist.github.com/serrasqueiro/9ab37fc6b58cc331f681f9959e16ef77),

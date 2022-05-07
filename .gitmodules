@@ -130,3 +130,6 @@
 [submodule "snippets/alias_git"]
 	path = snippets/alias_git
 	url = git@gist.github.com:39ba0f48364b734cb9bd4637301306c2.git
+[submodule "snippets/iban_howto"]
+	path = snippets/iban_howto
+	url = git@gist.github.com:771d58360164b224122ea62cc577518b.git
