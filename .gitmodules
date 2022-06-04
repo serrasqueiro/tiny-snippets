@@ -133,3 +133,12 @@
 [submodule "snippets/iban_howto"]
 	path = snippets/iban_howto
 	url = git@gist.github.com:771d58360164b224122ea62cc577518b.git
+[submodule "snippets/iban_details"]
+	path = snippets/iban_details
+	url = git@gist.github.com:00d7e8332b37f8eb9d5edb162eebc0ed.git
+[submodule "snippets/roupanova"]
+	path = snippets/roupanova
+	url = git@gist.github.com:22ef54cf198c00babd6d8f674cf0050f.git
+[submodule "snippets/yes"]
+	path = snippets/yes
+	url = git@gist.github.com:0aec7e59bd94378632edbe13478da84c.git
