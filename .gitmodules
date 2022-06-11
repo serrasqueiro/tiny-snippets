@@ -142,3 +142,9 @@
 [submodule "snippets/yes"]
 	path = snippets/yes
 	url = git@gist.github.com:0aec7e59bd94378632edbe13478da84c.git
+[submodule "snippets/portadosfundos"]
+	path = snippets/portadosfundos
+	url = git@gist.github.com:ac2babe15767110edce5c9c74caa23e0.git
+[submodule "snippets/geek_ohqmoc"]
+	path = snippets/geek_ohqmoc
+	url = git@gist.github.com:f2ff63c3e3e7c5ab96f115d2ea561f31.git
