@@ -148,3 +148,6 @@
 [submodule "snippets/geek_ohqmoc"]
 	path = snippets/geek_ohqmoc
 	url = git@gist.github.com:f2ff63c3e3e7c5ab96f115d2ea561f31.git
+[submodule "snippets/hmovies"]
+	path = snippets/hmovies
+	url = git@gist.github.com:3f936c8bf99522738218ed6a70476b90.git
