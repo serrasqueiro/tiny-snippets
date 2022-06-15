@@ -104,6 +104,18 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:46290b9552a8d401ebe4b7921fee1a1a.git snippets/deezing`
 1. [snippets/alias git](https://gist.github.com/serrasqueiro/39ba0f48364b734cb9bd4637301306c2),
    + `git submodule add git@gist.github.com:39ba0f48364b734cb9bd4637301306c2.git snippets/alias_git`
+1. [snippets/iban details](https://gist.github.com/serrasqueiro/00d7e8332b37f8eb9d5edb162eebc0ed),
+   + `git submodule add git@gist.github.com:00d7e8332b37f8eb9d5edb162eebc0ed.git snippets/iban_details`
+1. [snippets/roupanova](https://gist.github.com/serrasqueiro/22ef54cf198c00babd6d8f674cf0050f),
+   + `git submodule add git@gist.github.com:22ef54cf198c00babd6d8f674cf0050f.git snippets/roupanova`
+1. [snippets/yes](https://gist.github.com/serrasqueiro/0aec7e59bd94378632edbe13478da84c),
+   + `git submodule add git@gist.github.com:0aec7e59bd94378632edbe13478da84c.git snippets/yes`
+1. [snippets/portadosfundos](https://gist.github.com/serrasqueiro/ac2babe15767110edce5c9c74caa23e0),
+   + `git submodule add git@gist.github.com:ac2babe15767110edce5c9c74caa23e0.git snippets/portadosfundos`
+1. [snippets/geek ohqmoc](https://gist.github.com/serrasqueiro/f2ff63c3e3e7c5ab96f115d2ea561f31),
+   + `git submodule add git@gist.github.com:f2ff63c3e3e7c5ab96f115d2ea561f31.git snippets/geek_ohqmoc`
+1. [snippets/hmovies](https://gist.github.com/serrasqueiro/3f936c8bf99522738218ed6a70476b90),
+   + `git submodule add git@gist.github.com:3f936c8bf99522738218ed6a70476b90.git snippets/hmovies`
 
 1. [snippets/risk](https://gist.github.com/serrasqueiro/7011cdf094746f44bf3be47d4f8bcfd4),
    + `git submodule add git@gist.github.com:7011cdf094746f44bf3be47d4f8bcfd4.git snippets/risk`
