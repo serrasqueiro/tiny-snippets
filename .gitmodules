@@ -151,3 +151,12 @@
 [submodule "snippets/hmovies"]
 	path = snippets/hmovies
 	url = git@gist.github.com:3f936c8bf99522738218ed6a70476b90.git
+[submodule "snippets/iso3166-1"]
+	path = snippets/iso3166-1
+	url = git@gist.github.com:165c1f3659f56d5cbedbd90cf5b662c7.git
+[submodule "snippets/simple_csv_dump"]
+	path = snippets/simple_csv_dump
+	url = git@gist.github.com:09633e4336c067b57e18dc815778ccde.git
+[submodule "snippets/howtovdi"]
+	path = snippets/howtovdi
+	url = git@gist.github.com:566c98dd83a90eb12987dd896aea1902.git
