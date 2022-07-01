@@ -160,3 +160,6 @@
 [submodule "snippets/howtovdi"]
 	path = snippets/howtovdi
 	url = git@gist.github.com:566c98dd83a90eb12987dd896aea1902.git
+[submodule "snippets/debian_minimal"]
+	path = snippets/debian_minimal
+	url = git@github.com:serrasqueiro/debmin.git
