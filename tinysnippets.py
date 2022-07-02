@@ -49,6 +49,7 @@ def dump_subs(hashes, pre:str, within:str, fname:str, out) -> tuple:
     exc_these = (
         "misc/keepit",
         "snippets/links",
+        "debmin",
     )
     astr = pre
     news, subs = "", ""

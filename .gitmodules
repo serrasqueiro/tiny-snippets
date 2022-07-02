@@ -163,3 +163,6 @@
 [submodule "snippets/debian_minimal"]
 	path = snippets/debian_minimal
 	url = git@github.com:serrasqueiro/debmin.git
+[submodule "snippets/iuc"]
+	path = snippets/iuc
+	url = git@gist.github.com:6258d2f50c769179a32cd690dcea6aca.git

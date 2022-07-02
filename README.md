@@ -116,6 +116,16 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:f2ff63c3e3e7c5ab96f115d2ea561f31.git snippets/geek_ohqmoc`
 1. [snippets/hmovies](https://gist.github.com/serrasqueiro/3f936c8bf99522738218ed6a70476b90),
    + `git submodule add git@gist.github.com:3f936c8bf99522738218ed6a70476b90.git snippets/hmovies`
+1. [snippets/iso3166-1](https://gist.github.com/serrasqueiro/165c1f3659f56d5cbedbd90cf5b662c7),
+   + `git submodule add git@gist.github.com:165c1f3659f56d5cbedbd90cf5b662c7.git snippets/iso3166-1`
+1. [snippets/simple csv dump](https://gist.github.com/serrasqueiro/09633e4336c067b57e18dc815778ccde),
+   + `git submodule add git@gist.github.com:09633e4336c067b57e18dc815778ccde.git snippets/simple_csv_dump`
+1. [snippets/howtovdi](https://gist.github.com/serrasqueiro/566c98dd83a90eb12987dd896aea1902),
+   + `git submodule add git@gist.github.com:566c98dd83a90eb12987dd896aea1902.git snippets/howtovdi`
+1. [snippets/iuc](https://gist.github.com/serrasqueiro/6258d2f50c769179a32cd690dcea6aca),
+   + `git submodule add git@gist.github.com:6258d2f50c769179a32cd690dcea6aca.git snippets/iuc`
 
 1. [snippets/risk](https://gist.github.com/serrasqueiro/7011cdf094746f44bf3be47d4f8bcfd4),
    + `git submodule add git@gist.github.com:7011cdf094746f44bf3be47d4f8bcfd4.git snippets/risk`
+1. [snippets/debian minimal](https://gist.github.com/serrasqueiro/serrasqueiro/debmin),
+   + `git submodule add git@github.com:serrasqueiro/debmin.git snippets/debian_minimal`
