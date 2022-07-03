@@ -112,6 +112,8 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:0aec7e59bd94378632edbe13478da84c.git snippets/yes`
 1. [snippets/portadosfundos](https://gist.github.com/serrasqueiro/ac2babe15767110edce5c9c74caa23e0),
    + `git submodule add git@gist.github.com:ac2babe15767110edce5c9c74caa23e0.git snippets/portadosfundos`
+1. [snippets/rsspt](https://gist.github.com/serrasqueiro/da99deaa62e43d276e31f790b3095566),
+   + `git submodule add git@gist.github.com:da99deaa62e43d276e31f790b3095566.git snippets/rsspt`
 1. [snippets/geek ohqmoc](https://gist.github.com/serrasqueiro/f2ff63c3e3e7c5ab96f115d2ea561f31),
    + `git submodule add git@gist.github.com:f2ff63c3e3e7c5ab96f115d2ea561f31.git snippets/geek_ohqmoc`
 1. [snippets/hmovies](https://gist.github.com/serrasqueiro/3f936c8bf99522738218ed6a70476b90),

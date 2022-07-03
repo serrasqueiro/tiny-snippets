@@ -166,3 +166,6 @@
 [submodule "snippets/iuc"]
 	path = snippets/iuc
 	url = git@gist.github.com:6258d2f50c769179a32cd690dcea6aca.git
+[submodule "snippets/rsspt"]
+	path = snippets/rsspt
+	url = git@gist.github.com:da99deaa62e43d276e31f790b3095566.git
