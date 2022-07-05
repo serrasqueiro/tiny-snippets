@@ -169,3 +169,6 @@
 [submodule "snippets/rsspt"]
 	path = snippets/rsspt
 	url = git@gist.github.com:da99deaa62e43d276e31f790b3095566.git
+[submodule "snippets/gitish"]
+	path = snippets/gitish
+	url = git@gist.github.com:1e491d1225947294fbe83e1827bee3b7.git
