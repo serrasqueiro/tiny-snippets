@@ -126,6 +126,12 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:566c98dd83a90eb12987dd896aea1902.git snippets/howtovdi`
 1. [snippets/iuc](https://gist.github.com/serrasqueiro/6258d2f50c769179a32cd690dcea6aca),
    + `git submodule add git@gist.github.com:6258d2f50c769179a32cd690dcea6aca.git snippets/iuc`
+1. [snippets/gitish](https://gist.github.com/serrasqueiro/1e491d1225947294fbe83e1827bee3b7),
+   + `git submodule add git@gist.github.com:1e491d1225947294fbe83e1827bee3b7.git snippets/gitish`
+1. [snippets/arts-dz](https://gist.github.com/serrasqueiro/4e1a5c961d3fbc2498969121e46caad1),
+   + `git submodule add git@gist.github.com:4e1a5c961d3fbc2498969121e46caad1.git snippets/arts-dz`
+1. [snippets/poker-dados](https://gist.github.com/serrasqueiro/0eda59f48e1df52c6d7d9cfe0dc029aa),
+   + `git submodule add git@gist.github.com:0eda59f48e1df52c6d7d9cfe0dc029aa.git snippets/poker-dados`
 
 1. [snippets/risk](https://gist.github.com/serrasqueiro/7011cdf094746f44bf3be47d4f8bcfd4),
    + `git submodule add git@gist.github.com:7011cdf094746f44bf3be47d4f8bcfd4.git snippets/risk`
