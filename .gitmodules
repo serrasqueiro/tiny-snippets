@@ -172,3 +172,9 @@
 [submodule "snippets/gitish"]
 	path = snippets/gitish
 	url = git@gist.github.com:1e491d1225947294fbe83e1827bee3b7.git
+[submodule "snippets/arts-dz"]
+	path = snippets/arts-dz
+	url = git@gist.github.com:4e1a5c961d3fbc2498969121e46caad1.git
+[submodule "snippets/poker-dados"]
+	path = snippets/poker-dados
+	url = git@gist.github.com:0eda59f48e1df52c6d7d9cfe0dc029aa.git
