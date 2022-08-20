@@ -30,7 +30,7 @@
 	url = git@gist.github.com:5c1a96781b401473025448c8473bd6f5.git
 [submodule "snippets/slb_dates"]
 	path = snippets/slb_dates
-	url = git@gist.github.com:00aa98ed3a54f348fd5afdee81d8da6f.git
+	url = git@github.com:serrasqueiro/jogaemcasa.git
 [submodule "snippets/from_java_cc_map"]
 	path = snippets/from_java_cc_map
 	url = git@gist.github.com:2067e139bab4ed177c145921df28ba03.git
