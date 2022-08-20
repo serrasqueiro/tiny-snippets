@@ -178,3 +178,6 @@
 [submodule "snippets/poker-dados"]
 	path = snippets/poker-dados
 	url = git@gist.github.com:0eda59f48e1df52c6d7d9cfe0dc029aa.git
+[submodule "snippets/markdown_doc"]
+	path = snippets/markdown_doc
+	url = git@gist.github.com:2acb91a4c21ba5f46c64dc6c539093dc.git

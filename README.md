@@ -132,6 +132,8 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:4e1a5c961d3fbc2498969121e46caad1.git snippets/arts-dz`
 1. [snippets/poker-dados](https://gist.github.com/serrasqueiro/0eda59f48e1df52c6d7d9cfe0dc029aa),
    + `git submodule add git@gist.github.com:0eda59f48e1df52c6d7d9cfe0dc029aa.git snippets/poker-dados`
+1. [snippets/markdown doc](https://gist.github.com/serrasqueiro/2acb91a4c21ba5f46c64dc6c539093dc),
+   + `git submodule add git@gist.github.com:2acb91a4c21ba5f46c64dc6c539093dc.git snippets/markdown_doc`
 
 1. [snippets/risk](https://gist.github.com/serrasqueiro/7011cdf094746f44bf3be47d4f8bcfd4),
    + `git submodule add git@gist.github.com:7011cdf094746f44bf3be47d4f8bcfd4.git snippets/risk`
