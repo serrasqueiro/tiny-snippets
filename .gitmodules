@@ -181,3 +181,6 @@
 [submodule "snippets/markdown_doc"]
 	path = snippets/markdown_doc
 	url = git@gist.github.com:2acb91a4c21ba5f46c64dc6c539093dc.git
+[submodule "snippets/bigfile"]
+	path = snippets/bigfile
+	url = git@gist.github.com:86298610248e134a6c78dd4027ebc812.git
