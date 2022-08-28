@@ -41,10 +41,10 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:717a2868b55275925784f9b3e874bcfe.git snippets/ux_colors`
 1. [snippets/sampledates](https://gist.github.com/serrasqueiro/5c1a96781b401473025448c8473bd6f5),
    + `git submodule add git@gist.github.com:5c1a96781b401473025448c8473bd6f5.git snippets/sampledates`
-1. [snippets/slb dates](https://gist.github.com/serrasqueiro/00aa98ed3a54f348fd5afdee81d8da6f),
+1. [snippets/slb dates](https://github.com/serrasqueiro/jogaemcasa),
    + `git submodule add git@github.com:serrasqueiro/jogaemcasa.git snippets/slb_dates`
-   + tiny-url 2022: [here](https://tinyurl.com/benfica2022), 2021 [here](https://gist.github.com/serrasqueiro/00aa98ed3a54f348fd5afdee81d8da6f/00ac3237da90b932219f08d4a5dfb105608f1478)
-1. [snippets/from java cc map](https://gist.github.com/serrasqueiro/2067e139bab4ed177c145921df28ba03),
+   + tiny-url 2022: [here](https://tinyurl.com/benfica2022), 2021 [here](https://gist.github.com/serrasqueiro/00aa98ed3a54f348fd5afdee81d8da6f/90d740575193c494d145e6c222627066705ba0e2)
+1. [snippets/from java cc map](https://gist.github.com/serrasqueiro/2067e139bab4ed177c145921df28ba03)
    + `git submodule add git@gist.github.com:2067e139bab4ed177c145921df28ba03.git snippets/from_java_cc_map`
 1. [snippets/country calling codes](https://gist.github.com/serrasqueiro/0bafc120f8e622a221e01f4b5221c718),
    + `git submodule add git@gist.github.com:0bafc120f8e622a221e01f4b5221c718.git snippets/country_calling_codes`
@@ -134,8 +134,10 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:0eda59f48e1df52c6d7d9cfe0dc029aa.git snippets/poker-dados`
 1. [snippets/markdown doc](https://gist.github.com/serrasqueiro/2acb91a4c21ba5f46c64dc6c539093dc),
    + `git submodule add git@gist.github.com:2acb91a4c21ba5f46c64dc6c539093dc.git snippets/markdown_doc`
+1. [snippets/bigfile](https://gist.github.com/serrasqueiro/86298610248e134a6c78dd4027ebc812),
+   + `git submodule add git@gist.github.com:86298610248e134a6c78dd4027ebc812.git snippets/bigfile`
 
 1. [snippets/risk](https://gist.github.com/serrasqueiro/7011cdf094746f44bf3be47d4f8bcfd4),
    + `git submodule add git@gist.github.com:7011cdf094746f44bf3be47d4f8bcfd4.git snippets/risk`
-1. [snippets/debian minimal](https://gist.github.com/serrasqueiro/serrasqueiro/debmin),
+1. [snippets/debian minimal](https://gist.github.com/serrasqueiro/debmin),
    + `git submodule add git@github.com:serrasqueiro/debmin.git snippets/debian_minimal`

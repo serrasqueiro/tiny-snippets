@@ -12,6 +12,13 @@ import os.path
 
 SHOW_NEW_ONLY = True
 
+EXCLUDE_COMPLAIN_ON = (
+    "misc/keepit",
+    "snippets/links",
+    "debmin",
+    "serrasqueiro/jogaemcasa",
+)
+
 
 def main():
     """ Main function """
@@ -46,11 +53,7 @@ def dump_subs(hashes, pre:str, within:str, fname:str, out) -> tuple:
         - sub-modules
     """
     assert hashes
-    exc_these = (
-        "misc/keepit",
-        "snippets/links",
-        "debmin",
-    )
+    exc_these = EXCLUDE_COMPLAIN_ON
     astr = pre
     news, subs = "", ""
     last = ""
