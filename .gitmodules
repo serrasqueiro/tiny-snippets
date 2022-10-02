@@ -184,3 +184,9 @@
 [submodule "snippets/bigfile"]
 	path = snippets/bigfile
 	url = git@gist.github.com:86298610248e134a6c78dd4027ebc812.git
+[submodule "snippets/adhoc"]
+	path = snippets/adhoc
+	url = git@gist.github.com:aafdcbc01d1270acdf108c4e0aa2637e.git
+[submodule "snippets/racas"]
+	path = snippets/racas
+	url = git@gist.github.com:c25376bf8480e3158b3fbb065e4ea529.git
