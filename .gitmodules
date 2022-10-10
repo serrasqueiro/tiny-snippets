@@ -190,3 +190,9 @@
 [submodule "snippets/racas"]
 	path = snippets/racas
 	url = git@gist.github.com:c25376bf8480e3158b3fbb065e4ea529.git
+[submodule "snippets/beautifulsoup4-timestamps"]
+	path = snippets/beautifulsoup4-timestamps
+	url = git@gist.github.com:935a59a74fd8d743f5fa356d314a957b.git
+[submodule "snippets/fraudes"]
+	path = snippets/fraudes
+	url = git@gist.github.com:f7a050a5f7c7b86e048f9e15b37c1953.git
