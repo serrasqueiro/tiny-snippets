@@ -202,3 +202,6 @@
 [submodule "snippets/tracing-examples"]
 	path = snippets/tracing-examples
 	url = git@gist.github.com:16ee46eb0aea6aaeb2bcf5ec2538721e.git
+[submodule "snippets/am_i"]
+	path = snippets/am_i
+	url = git@gist.github.com:7fd1d648363ba3c0e872be7f123b06c2.git
