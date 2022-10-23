@@ -208,3 +208,6 @@
 [submodule "snippets/flashscore"]
 	path = snippets/flashscore
 	url = git@gist.github.com:988c5fcf5045530d857419fc62d85ba4.git
+[submodule "snippets/yes_kudos"]
+	path = snippets/yes_kudos
+	url = git@gist.github.com:8edfeef5b32a5e5195d78d9fce035438.git
