@@ -205,3 +205,6 @@
 [submodule "snippets/am_i"]
 	path = snippets/am_i
 	url = git@gist.github.com:7fd1d648363ba3c0e872be7f123b06c2.git
+[submodule "snippets/flashscore"]
+	path = snippets/flashscore
+	url = git@gist.github.com:988c5fcf5045530d857419fc62d85ba4.git
