@@ -136,6 +136,24 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:2acb91a4c21ba5f46c64dc6c539093dc.git snippets/markdown_doc`
 1. [snippets/bigfile](https://gist.github.com/serrasqueiro/86298610248e134a6c78dd4027ebc812),
    + `git submodule add git@gist.github.com:86298610248e134a6c78dd4027ebc812.git snippets/bigfile`
+1. [snippets/adhoc](https://gist.github.com/serrasqueiro/aafdcbc01d1270acdf108c4e0aa2637e),
+   + `git submodule add git@gist.github.com:aafdcbc01d1270acdf108c4e0aa2637e.git snippets/adhoc`
+1. [snippets/racas](https://gist.github.com/serrasqueiro/c25376bf8480e3158b3fbb065e4ea529),
+   + `git submodule add git@gist.github.com:c25376bf8480e3158b3fbb065e4ea529.git snippets/racas`
+1. [snippets/beautifulsoup4-timestamps](https://gist.github.com/serrasqueiro/935a59a74fd8d743f5fa356d314a957b),
+   + `git submodule add git@gist.github.com:935a59a74fd8d743f5fa356d314a957b.git snippets/beautifulsoup4-timestamps`
+1. [snippets/fraudes](https://gist.github.com/serrasqueiro/f7a050a5f7c7b86e048f9e15b37c1953),
+   + `git submodule add git@gist.github.com:f7a050a5f7c7b86e048f9e15b37c1953.git snippets/fraudes`
+1. [snippets/tracing](https://gist.github.com/serrasqueiro/a7759461db40b52cadbcd141d6eff4cb),
+   + `git submodule add git@gist.github.com:a7759461db40b52cadbcd141d6eff4cb.git snippets/tracing`
+1. [snippets/tracing-examples](https://gist.github.com/serrasqueiro/16ee46eb0aea6aaeb2bcf5ec2538721e),
+   + `git submodule add git@gist.github.com:16ee46eb0aea6aaeb2bcf5ec2538721e.git snippets/tracing-examples`
+1. [snippets/am i](https://gist.github.com/serrasqueiro/7fd1d648363ba3c0e872be7f123b06c2),
+   + `git submodule add git@gist.github.com:7fd1d648363ba3c0e872be7f123b06c2.git snippets/am_i`
+1. [snippets/flashscore](https://gist.github.com/serrasqueiro/988c5fcf5045530d857419fc62d85ba4),
+   + `git submodule add git@gist.github.com:988c5fcf5045530d857419fc62d85ba4.git snippets/flashscore`
+1. [snippets/yes kudos](https://gist.github.com/serrasqueiro/8edfeef5b32a5e5195d78d9fce035438),
+   + `git submodule add git@gist.github.com:8edfeef5b32a5e5195d78d9fce035438.git snippets/yes_kudos`
 
 1. [snippets/risk](https://gist.github.com/serrasqueiro/7011cdf094746f44bf3be47d4f8bcfd4),
    + `git submodule add git@gist.github.com:7011cdf094746f44bf3be47d4f8bcfd4.git snippets/risk`
