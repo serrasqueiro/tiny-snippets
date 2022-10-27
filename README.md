@@ -154,6 +154,8 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:988c5fcf5045530d857419fc62d85ba4.git snippets/flashscore`
 1. [snippets/yes kudos](https://gist.github.com/serrasqueiro/8edfeef5b32a5e5195d78d9fce035438),
    + `git submodule add git@gist.github.com:8edfeef5b32a5e5195d78d9fce035438.git snippets/yes_kudos`
+1. [snippets/whataboutfun](https://gist.github.com/serrasqueiro/c5a72c0cf73c64f7ec445d5c9e88bc44),
+   + `git submodule add git@gist.github.com:c5a72c0cf73c64f7ec445d5c9e88bc44.git snippets/whataboutfun`
 
 1. [snippets/risk](https://gist.github.com/serrasqueiro/7011cdf094746f44bf3be47d4f8bcfd4),
    + `git submodule add git@gist.github.com:7011cdf094746f44bf3be47d4f8bcfd4.git snippets/risk`

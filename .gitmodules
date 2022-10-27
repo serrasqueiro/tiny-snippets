@@ -211,3 +211,6 @@
 [submodule "snippets/yes_kudos"]
 	path = snippets/yes_kudos
 	url = git@gist.github.com:8edfeef5b32a5e5195d78d9fce035438.git
+[submodule "snippets/whataboutfun"]
+	path = snippets/whataboutfun
+	url = git@gist.github.com:c5a72c0cf73c64f7ec445d5c9e88bc44.git
