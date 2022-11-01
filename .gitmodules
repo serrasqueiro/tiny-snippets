@@ -214,3 +214,6 @@
 [submodule "snippets/whataboutfun"]
 	path = snippets/whataboutfun
 	url = git@gist.github.com:c5a72c0cf73c64f7ec445d5c9e88bc44.git
+[submodule "snippets/youtube_channels"]
+	path = snippets/youtube_channels
+	url = git@gist.github.com:bf7faed2e78ca85808da025ea4bc1635.git
