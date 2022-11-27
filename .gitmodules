@@ -223,3 +223,12 @@
 [submodule "snippets/grelhas-prog"]
 	path = snippets/grelhas-prog
 	url = https://gist.github.com/serrasqueiro/69c94c48c3a78f4597266037b62d242e
+[submodule "src/listers"]
+	path = src/listers
+	url = git@gist.github.com:b3b2ecbdb2a4e9b3632c22483e72bbbe.git
+[submodule "src/etc/piban"]
+	path = src/etc/piban
+	url = git@github.com:serrasqueiro/piban.git
+[submodule "snippets/condos"]
+	path = snippets/condos
+	url = git@gist.github.com:adee27ec209e97b6cf6b82eec6603e6c.git
