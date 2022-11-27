@@ -156,6 +156,12 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:8edfeef5b32a5e5195d78d9fce035438.git snippets/yes_kudos`
 1. [snippets/whataboutfun](https://gist.github.com/serrasqueiro/c5a72c0cf73c64f7ec445d5c9e88bc44),
    + `git submodule add git@gist.github.com:c5a72c0cf73c64f7ec445d5c9e88bc44.git snippets/whataboutfun`
+1. [snippets/youtube channels](https://gist.github.com/serrasqueiro/bf7faed2e78ca85808da025ea4bc1635),
+   + `git submodule add git@gist.github.com:bf7faed2e78ca85808da025ea4bc1635.git snippets/youtube_channels`
+1. [snippets/mundial2022](https://gist.github.com/serrasqueiro/b93cea0028c9f74eeea22ceb9259589d),
+   + `git submodule add git@gist.github.com:b93cea0028c9f74eeea22ceb9259589d.git snippets/mundial2022`
+1. [snippets/grelhas-prog](https://gist.github.com/serrasqueiro///gist),
+   + `git submodule add https://gist.github.com/serrasqueiro/69c94c48c3a78f4597266037b62d242e snippets/grelhas-prog`
 
 1. [snippets/risk](https://gist.github.com/serrasqueiro/7011cdf094746f44bf3be47d4f8bcfd4),
    + `git submodule add git@gist.github.com:7011cdf094746f44bf3be47d4f8bcfd4.git snippets/risk`

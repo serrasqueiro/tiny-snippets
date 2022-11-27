@@ -217,3 +217,9 @@
 [submodule "snippets/youtube_channels"]
 	path = snippets/youtube_channels
 	url = git@gist.github.com:bf7faed2e78ca85808da025ea4bc1635.git
+[submodule "snippets/mundial2022"]
+	path = snippets/mundial2022
+	url = git@gist.github.com:b93cea0028c9f74eeea22ceb9259589d.git
+[submodule "snippets/grelhas-prog"]
+	path = snippets/grelhas-prog
+	url = https://gist.github.com/serrasqueiro/69c94c48c3a78f4597266037b62d242e
