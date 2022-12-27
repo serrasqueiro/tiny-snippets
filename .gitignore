@@ -10,8 +10,9 @@ build/
 
 # pyenv
 .python-version
-
 venv/
+# Pycharm projects
+.idea
 
 # Pyre type checker
 .pyre/

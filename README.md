@@ -6,7 +6,9 @@ Set of submodules that are tiny snippets,
 
 This module contains a set of basic snippets, originally from _**gist**_.
 When reaching here, do:
-- `git submodule foreach "(git checkout master; git pull)"`
+- `git submodule update --init --recursive`
+- or, just update your local repository if you did already download this repo:
+  + `git submodule foreach "(git checkout master; git pull; echo ___)"`
 
 ## Log history
 
