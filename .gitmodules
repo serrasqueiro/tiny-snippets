@@ -235,3 +235,6 @@
 [submodule "snippets/funds"]
 	path = snippets/funds
 	url = git@gist.github.com:1b90d20a95c4c50b06aa7c24e116970e.git
+[submodule "snippets/memorable"]
+	path = snippets/memorable
+	url = git@gist.github.com:0fac561e8819430c24343b30d030ddae.git
