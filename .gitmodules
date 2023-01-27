@@ -238,3 +238,6 @@
 [submodule "snippets/memorable"]
 	path = snippets/memorable
 	url = git@gist.github.com:0fac561e8819430c24343b30d030ddae.git
+[submodule "snippets/cmd"]
+	path = snippets/cmd
+	url = git@gist.github.com:b9cd37a5d5dc93a4b882164993bf5c23.git
