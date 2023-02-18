@@ -92,8 +92,6 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:7fe2d7c44a321933fdca36abd6c991f9.git snippets/lambda_howto`
 1. [snippets/dice art](https://gist.github.com/serrasqueiro/234642475cc617dbaec10c69ad12b159),
    + `git submodule add git@gist.github.com:234642475cc617dbaec10c69ad12b159.git snippets/dice_art`
-1. [snippets/piban](https://gist.github.com/serrasqueiro/380a38dc0b7b6f50b9442b8d6a4283fe),
-   + `git submodule add git@gist.github.com:380a38dc0b7b6f50b9442b8d6a4283fe.git snippets/piban`
 1. [snippets/iban howto](https://gist.github.com/serrasqueiro/771d58360164b224122ea62cc577518b),
    + `git submodule add git@gist.github.com:771d58360164b224122ea62cc577518b.git snippets/iban_howto`
 1. [snippets/pub nipc](https://gist.github.com/serrasqueiro/1553a7f844d0d776e41a1c4da1f44611),
@@ -162,14 +160,10 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:bf7faed2e78ca85808da025ea4bc1635.git snippets/youtube_channels`
 1. [snippets/mundial2022](https://gist.github.com/serrasqueiro/b93cea0028c9f74eeea22ceb9259589d),
    + `git submodule add git@gist.github.com:b93cea0028c9f74eeea22ceb9259589d.git snippets/mundial2022`
-1. [snippets/grelhas-prog](https://gist.github.com/serrasqueiro///gist),
-   + `git submodule add https://gist.github.com/serrasqueiro/69c94c48c3a78f4597266037b62d242e snippets/grelhas-prog`
 1. [snippets/grelhas-prog](https://gist.github.com/serrasqueiro/69c94c48c3a78f4597266037b62d242e),
    + `git submodule add git@gist.github.com:69c94c48c3a78f4597266037b62d242e.git snippets/grelhas-prog`
 1. [src/listers](https://gist.github.com/serrasqueiro/b3b2ecbdb2a4e9b3632c22483e72bbbe),
    + `git submodule add git@gist.github.com:b3b2ecbdb2a4e9b3632c22483e72bbbe.git src/listers`
-1. [src/etc/piban](https://gist.github.com/serrasqueiro/serrasqueiro/piban),
-   + `git submodule add git@github.com:serrasqueiro/piban.git src/etc/piban`
 1. [snippets/condos](https://gist.github.com/serrasqueiro/adee27ec209e97b6cf6b82eec6603e6c),
    + `git submodule add git@gist.github.com:adee27ec209e97b6cf6b82eec6603e6c.git snippets/condos`
 1. [snippets/funds](https://gist.github.com/serrasqueiro/1b90d20a95c4c50b06aa7c24e116970e),
