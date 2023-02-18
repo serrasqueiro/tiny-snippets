@@ -174,6 +174,14 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:adee27ec209e97b6cf6b82eec6603e6c.git snippets/condos`
 1. [snippets/funds](https://gist.github.com/serrasqueiro/1b90d20a95c4c50b06aa7c24e116970e),
    + `git submodule add git@gist.github.com:1b90d20a95c4c50b06aa7c24e116970e.git snippets/funds`
+1. [src/etc/piban](https://gist.github.com/serrasqueiro/serrasqueiro/piban),
+   + `git submodule add git@github.com:serrasqueiro/piban.git src/etc/piban`
+1. [snippets/memorable](https://gist.github.com/serrasqueiro/0fac561e8819430c24343b30d030ddae),
+   + `git submodule add git@gist.github.com:0fac561e8819430c24343b30d030ddae.git snippets/memorable`
+1. [snippets/cmd](https://gist.github.com/serrasqueiro/b9cd37a5d5dc93a4b882164993bf5c23),
+   + `git submodule add git@gist.github.com:b9cd37a5d5dc93a4b882164993bf5c23.git snippets/cmd`
+1. [snippets/periodic-table](https://gist.github.com/serrasqueiro/dce730c265ccc0e9881eba5374a97f62),
+   + `git submodule add git@gist.github.com:dce730c265ccc0e9881eba5374a97f62.git snippets/periodic-table`
 
 1. [snippets/risk](https://gist.github.com/serrasqueiro/7011cdf094746f44bf3be47d4f8bcfd4),
    + `git submodule add git@gist.github.com:7011cdf094746f44bf3be47d4f8bcfd4.git snippets/risk`

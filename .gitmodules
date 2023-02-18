@@ -241,3 +241,6 @@
 [submodule "snippets/cmd"]
 	path = snippets/cmd
 	url = git@gist.github.com:b9cd37a5d5dc93a4b882164993bf5c23.git
+[submodule "snippets/periodic-table"]
+	path = snippets/periodic-table
+	url = git@gist.github.com:dce730c265ccc0e9881eba5374a97f62.git
