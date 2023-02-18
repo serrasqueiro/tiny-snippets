@@ -30,7 +30,7 @@
 	url = git@gist.github.com:5c1a96781b401473025448c8473bd6f5.git
 [submodule "snippets/slb_dates"]
 	path = snippets/slb_dates
-	url = git@gist.github.com:00aa98ed3a54f348fd5afdee81d8da6f.git
+	url = git@github.com:serrasqueiro/jogaemcasa.git
 [submodule "snippets/from_java_cc_map"]
 	path = snippets/from_java_cc_map
 	url = git@gist.github.com:2067e139bab4ed177c145921df28ba03.git
@@ -67,3 +67,180 @@
 [submodule "snippets/git_svnst"]
 	path = snippets/git_svnst
 	url = git@gist.github.com:b9591fac25f741b87c8560de5153457b.git
+[submodule "snippets/asciis"]
+	path = snippets/asciis
+	url = git@gist.github.com:0714e9d04039e5c29dedc60a1bd57f6e.git
+[submodule "snippets/timeanddate_calendars"]
+	path = snippets/timeanddate_calendars
+	url = git@gist.github.com:c634bade7d0fd53a4ccdf016bad0c3e2.git
+[submodule "snippets/farmacias"]
+	path = snippets/farmacias
+	url = git@gist.github.com:4d4a36d4cf53ddb5987fb9607b6ceee5.git
+[submodule "snippets/curiosity"]
+	path = snippets/curiosity
+	url = git@gist.github.com:f55bb4a18dabaabd82f05d3b2a3b8f24.git
+[submodule "snippets/links"]
+	path = snippets/links
+	url = git@github.com:serrasqueiro/links.git
+[submodule "snippets/gist_url"]
+	path = snippets/gist_url
+	url = git@gist.github.com:08c51698a7668abba4ed6910f9a16ce3.git
+[submodule "snippets/periodic_table"]
+	path = snippets/periodic_table
+	url = git@gist.github.com:5a54eb09d36611ac45610460182d6451.git
+[submodule "snippets/local_networks"]
+	path = snippets/local_networks
+	url = git@gist.github.com:7d5781c554f163112ca8910e7b6b1fc9.git
+[submodule "snippets/python_real"]
+	path = snippets/python_real
+	url = git@gist.github.com:bb335f02558d405cc893483e92571dab.git
+[submodule "snippets/lista_recibos"]
+	path = snippets/lista_recibos
+	url = git@gist.github.com:8e0d3c59dd09f1485272ca5607c72a42.git
+[submodule "snippets/arts"]
+	path = snippets/arts
+	url = git@gist.github.com:f00b3ebc9f455a2bdb123a738b117b0c.git
+[submodule "snippets/meogonicks-info"]
+	path = snippets/meogonicks-info
+	url = git@gist.github.com:5aeb458f66e7499e76f7de1443df482f.git
+[submodule "snippets/lambda_howto"]
+	path = snippets/lambda_howto
+	url = git@gist.github.com:7fe2d7c44a321933fdca36abd6c991f9.git
+[submodule "snippets/git_packers"]
+	path = snippets/git_packers
+	url = git@gist.github.com:3b5705682767e04a4b4516da500c0930.git
+[submodule "snippets/dice_art"]
+	path = snippets/dice_art
+	url = git@gist.github.com:234642475cc617dbaec10c69ad12b159.git
+[submodule "snippets/piban"]
+	path = snippets/piban
+	url = git@gist.github.com:380a38dc0b7b6f50b9442b8d6a4283fe.git
+[submodule "snippets/pub_nipc"]
+	path = snippets/pub_nipc
+	url = git@gist.github.com:1553a7f844d0d776e41a1c4da1f44611.git
+[submodule "snippets/deezing"]
+	path = snippets/deezing
+	url = git@gist.github.com:46290b9552a8d401ebe4b7921fee1a1a.git
+[submodule "snippets/gitouch"]
+	path = snippets/gitouch
+	url = git@gist.github.com:9ab37fc6b58cc331f681f9959e16ef77.git
+[submodule "snippets/nibans"]
+	path = snippets/nibans
+	url = git@gist.github.com:d58f203bd3a11eead463605e8182c589.git
+[submodule "snippets/alias_git"]
+	path = snippets/alias_git
+	url = git@gist.github.com:39ba0f48364b734cb9bd4637301306c2.git
+[submodule "snippets/iban_howto"]
+	path = snippets/iban_howto
+	url = git@gist.github.com:771d58360164b224122ea62cc577518b.git
+[submodule "snippets/iban_details"]
+	path = snippets/iban_details
+	url = git@gist.github.com:00d7e8332b37f8eb9d5edb162eebc0ed.git
+[submodule "snippets/roupanova"]
+	path = snippets/roupanova
+	url = git@gist.github.com:22ef54cf198c00babd6d8f674cf0050f.git
+[submodule "snippets/yes"]
+	path = snippets/yes
+	url = git@gist.github.com:0aec7e59bd94378632edbe13478da84c.git
+[submodule "snippets/portadosfundos"]
+	path = snippets/portadosfundos
+	url = git@gist.github.com:ac2babe15767110edce5c9c74caa23e0.git
+[submodule "snippets/geek_ohqmoc"]
+	path = snippets/geek_ohqmoc
+	url = git@gist.github.com:f2ff63c3e3e7c5ab96f115d2ea561f31.git
+[submodule "snippets/hmovies"]
+	path = snippets/hmovies
+	url = git@gist.github.com:3f936c8bf99522738218ed6a70476b90.git
+[submodule "snippets/iso3166-1"]
+	path = snippets/iso3166-1
+	url = git@gist.github.com:165c1f3659f56d5cbedbd90cf5b662c7.git
+[submodule "snippets/simple_csv_dump"]
+	path = snippets/simple_csv_dump
+	url = git@gist.github.com:09633e4336c067b57e18dc815778ccde.git
+[submodule "snippets/howtovdi"]
+	path = snippets/howtovdi
+	url = git@gist.github.com:566c98dd83a90eb12987dd896aea1902.git
+[submodule "snippets/debian_minimal"]
+	path = snippets/debian_minimal
+	url = git@github.com:serrasqueiro/debmin.git
+[submodule "snippets/iuc"]
+	path = snippets/iuc
+	url = git@gist.github.com:6258d2f50c769179a32cd690dcea6aca.git
+[submodule "snippets/rsspt"]
+	path = snippets/rsspt
+	url = git@gist.github.com:da99deaa62e43d276e31f790b3095566.git
+[submodule "snippets/gitish"]
+	path = snippets/gitish
+	url = git@gist.github.com:1e491d1225947294fbe83e1827bee3b7.git
+[submodule "snippets/arts-dz"]
+	path = snippets/arts-dz
+	url = git@gist.github.com:4e1a5c961d3fbc2498969121e46caad1.git
+[submodule "snippets/poker-dados"]
+	path = snippets/poker-dados
+	url = git@gist.github.com:0eda59f48e1df52c6d7d9cfe0dc029aa.git
+[submodule "snippets/markdown_doc"]
+	path = snippets/markdown_doc
+	url = git@gist.github.com:2acb91a4c21ba5f46c64dc6c539093dc.git
+[submodule "snippets/bigfile"]
+	path = snippets/bigfile
+	url = git@gist.github.com:86298610248e134a6c78dd4027ebc812.git
+[submodule "snippets/adhoc"]
+	path = snippets/adhoc
+	url = git@gist.github.com:aafdcbc01d1270acdf108c4e0aa2637e.git
+[submodule "snippets/racas"]
+	path = snippets/racas
+	url = git@gist.github.com:c25376bf8480e3158b3fbb065e4ea529.git
+[submodule "snippets/beautifulsoup4-timestamps"]
+	path = snippets/beautifulsoup4-timestamps
+	url = git@gist.github.com:935a59a74fd8d743f5fa356d314a957b.git
+[submodule "snippets/fraudes"]
+	path = snippets/fraudes
+	url = git@gist.github.com:f7a050a5f7c7b86e048f9e15b37c1953.git
+[submodule "snippets/tracing"]
+	path = snippets/tracing
+	url = git@gist.github.com:a7759461db40b52cadbcd141d6eff4cb.git
+[submodule "snippets/tracing-examples"]
+	path = snippets/tracing-examples
+	url = git@gist.github.com:16ee46eb0aea6aaeb2bcf5ec2538721e.git
+[submodule "snippets/am_i"]
+	path = snippets/am_i
+	url = git@gist.github.com:7fd1d648363ba3c0e872be7f123b06c2.git
+[submodule "snippets/flashscore"]
+	path = snippets/flashscore
+	url = git@gist.github.com:988c5fcf5045530d857419fc62d85ba4.git
+[submodule "snippets/yes_kudos"]
+	path = snippets/yes_kudos
+	url = git@gist.github.com:8edfeef5b32a5e5195d78d9fce035438.git
+[submodule "snippets/whataboutfun"]
+	path = snippets/whataboutfun
+	url = git@gist.github.com:c5a72c0cf73c64f7ec445d5c9e88bc44.git
+[submodule "snippets/youtube_channels"]
+	path = snippets/youtube_channels
+	url = git@gist.github.com:bf7faed2e78ca85808da025ea4bc1635.git
+[submodule "snippets/mundial2022"]
+	path = snippets/mundial2022
+	url = git@gist.github.com:b93cea0028c9f74eeea22ceb9259589d.git
+[submodule "snippets/grelhas-prog"]
+	path = snippets/grelhas-prog
+	url = git@gist.github.com:69c94c48c3a78f4597266037b62d242e.git
+[submodule "src/listers"]
+	path = src/listers
+	url = git@gist.github.com:b3b2ecbdb2a4e9b3632c22483e72bbbe.git
+[submodule "src/etc/piban"]
+	path = src/etc/piban
+	url = git@github.com:serrasqueiro/piban.git
+[submodule "snippets/condos"]
+	path = snippets/condos
+	url = git@gist.github.com:adee27ec209e97b6cf6b82eec6603e6c.git
+[submodule "snippets/funds"]
+	path = snippets/funds
+	url = git@gist.github.com:1b90d20a95c4c50b06aa7c24e116970e.git
+[submodule "snippets/memorable"]
+	path = snippets/memorable
+	url = git@gist.github.com:0fac561e8819430c24343b30d030ddae.git
+[submodule "snippets/cmd"]
+	path = snippets/cmd
+	url = git@gist.github.com:b9cd37a5d5dc93a4b882164993bf5c23.git
+[submodule "snippets/periodic-table"]
+	path = snippets/periodic-table
+	url = git@gist.github.com:dce730c265ccc0e9881eba5374a97f62.git

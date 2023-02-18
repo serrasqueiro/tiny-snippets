@@ -12,6 +12,13 @@ import os.path
 
 SHOW_NEW_ONLY = True
 
+EXCLUDE_COMPLAIN_ON = (
+    "misc/keepit",
+    "snippets/links",
+    "debmin",
+    "serrasqueiro/jogaemcasa",
+)
+
 
 def main():
     """ Main function """
@@ -45,6 +52,8 @@ def dump_subs(hashes, pre:str, within:str, fname:str, out) -> tuple:
         - complete git add module lines
         - sub-modules
     """
+    assert hashes
+    exc_these = EXCLUDE_COMPLAIN_ON
     astr = pre
     news, subs = "", ""
     last = ""
@@ -66,10 +75,12 @@ def dump_subs(hashes, pre:str, within:str, fname:str, out) -> tuple:
         if s_url:
             s_url = s_url + f",\n{blanked}+ "
         astring = f"1. {s_url}`" + within + rest + sub + "`\n"
-        if "misc/keepit" in astring:
+        # If any of specific strings found, do nothing:
+        if [item for item in exc_these if item in astring]:
+            #print("@@@", astring.replace("\n", "~"))
             astring = ""
         astr += astring
-        if hashes and rest in hashes:
+        if rest in hashes:
             # The line already exists
             pass
         else:
@@ -93,13 +104,13 @@ def hashes_there(fname:str=""):
         if magic_str not in line:
             last = line
             continue
-        hash = line.split(":", maxsplit=1)[1].split(" ")[0]
-        assert hash
+        a_hash = line.split(":", maxsplit=1)[1].split(" ")[0]
+        assert a_hash
         assert last.startswith("1. ["), f"Invalid last: '{last}'"
         sub_dir = last[len("1. ["):].split("]")[0].replace(" ", "_")
         if not os.path.isdir(sub_dir):
             print("#Warn:", "Not a sub dir:", sub_dir)
-        hashes.append(magic_str + hash)
+        hashes.append(magic_str + a_hash)
         last = line
     return hashes
 
