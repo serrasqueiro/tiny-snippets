@@ -5,7 +5,7 @@
 Shows sub-modules listed at .gitmodules, to be added on README.md
 """
 
-# pylint: disable=missing-docstring
+# pylint: disable=missing-docstring, too-many-locals
 
 import sys
 import os.path
@@ -58,7 +58,9 @@ def dump_subs(hashes, pre:str, within:str, fname:str, out) -> tuple:
     news, subs = "", ""
     last = ""
     blanked = " " * 3
-    for aline in open(fname, "r").readlines():
+    with open(fname, "r", encoding="ascii") as fdin:
+        line_list = fdin.readlines()
+    for aline in line_list:
         line = aline.strip()
         if line.startswith("["):	# [submodule "abc/def"]
             last = ""
@@ -80,14 +82,12 @@ def dump_subs(hashes, pre:str, within:str, fname:str, out) -> tuple:
             #print("@@@", astring.replace("\n", "~"))
             astring = ""
         astr += astring
-        if rest in hashes:
-            # The line already exists
-            pass
-        else:
+        if rest not in hashes:
             news += astring
         subs += rest + "\n"
-        if out:
-            out.write(f"{line}\n")
+        if not out:
+            continue
+        out.write(f"{line}\n")
     return (news, astr, subs)
 
 def better_path(astr:str) -> str:
@@ -97,7 +97,8 @@ def better_path(astr:str) -> str:
 def hashes_there(fname:str=""):
     magic_str = "git@gist.github.com:"
     path = fname if fname else "README.md"
-    lines = open(path, "r", encoding="ISO-8859-1").read().splitlines()
+    with open(path, "r", encoding="ISO-8859-1") as fdin:
+        lines = fdin.read().splitlines()
     hashes = []
     last = ""
     for line in lines:
