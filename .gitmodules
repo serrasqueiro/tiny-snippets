@@ -244,3 +244,9 @@
 [submodule "snippets/periodic-table"]
 	path = snippets/periodic-table
 	url = git@gist.github.com:dce730c265ccc0e9881eba5374a97f62.git
+[submodule "snippets/greader"]
+	path = snippets/greader
+	url = git@gist.github.com:a312dc6e32a1841d6d50a4a31b93e963.git
+[submodule "snippets/eredes"]
+	path = snippets/eredes
+	url = git@github.com:serrasqueiro/eredes.git
