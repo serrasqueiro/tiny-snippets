@@ -247,3 +247,6 @@
 [submodule "snippets/eredes"]
 	path = snippets/eredes
 	url = git@github.com:serrasqueiro/eredes.git
+[submodule "snippets/entidades-mb"]
+	path = snippets/entidades-mb
+	url = git@gist.github.com:67649b0eb1914998dba4ab69dddd3a9d.git
