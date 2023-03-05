@@ -250,3 +250,6 @@
 [submodule "snippets/entidades-mb"]
 	path = snippets/entidades-mb
 	url = git@gist.github.com:67649b0eb1914998dba4ab69dddd3a9d.git
+[submodule "snippets/preferred-ssh"]
+	path = snippets/preferred-ssh
+	url = git@gist.github.com:cb87ffe0445bfe108dbd8d4ed73ab484.git

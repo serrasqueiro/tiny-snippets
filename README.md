@@ -174,6 +174,16 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:b9cd37a5d5dc93a4b882164993bf5c23.git snippets/cmd`
 1. [snippets/periodic-table](https://gist.github.com/serrasqueiro/dce730c265ccc0e9881eba5374a97f62),
    + `git submodule add git@gist.github.com:dce730c265ccc0e9881eba5374a97f62.git snippets/periodic-table`
+1. [src/etc/piban](https://gist.github.com/serrasqueiro/serrasqueiro/piban),
+   + `git submodule add git@github.com:serrasqueiro/piban.git src/etc/piban`
+1. [snippets/greader](https://gist.github.com/serrasqueiro/a312dc6e32a1841d6d50a4a31b93e963),
+   + `git submodule add git@gist.github.com:a312dc6e32a1841d6d50a4a31b93e963.git snippets/greader`
+1. [snippets/eredes](https://gist.github.com/serrasqueiro/serrasqueiro/eredes),
+   + `git submodule add git@github.com:serrasqueiro/eredes.git snippets/eredes`
+1. [snippets/entidades-mb](https://gist.github.com/serrasqueiro/67649b0eb1914998dba4ab69dddd3a9d),
+   + `git submodule add git@gist.github.com:67649b0eb1914998dba4ab69dddd3a9d.git snippets/entidades-mb`
+1. [snippets/preferred-ssh](https://gist.github.com/serrasqueiro/cb87ffe0445bfe108dbd8d4ed73ab484),
+   + `git submodule add git@gist.github.com:cb87ffe0445bfe108dbd8d4ed73ab484.git snippets/preferred-ssh`
 
 1. [snippets/risk](https://gist.github.com/serrasqueiro/7011cdf094746f44bf3be47d4f8bcfd4),
    + `git submodule add git@gist.github.com:7011cdf094746f44bf3be47d4f8bcfd4.git snippets/risk`
