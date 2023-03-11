@@ -253,3 +253,6 @@
 [submodule "snippets/preferred-ssh"]
 	path = snippets/preferred-ssh
 	url = git@gist.github.com:cb87ffe0445bfe108dbd8d4ed73ab484.git
+[submodule "snippets/poker-videos"]
+	path = snippets/poker-videos
+	url = git@gist.github.com:3b885690f901cefd7e585ae56bfe535d.git
