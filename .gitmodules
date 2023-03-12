@@ -256,3 +256,6 @@
 [submodule "snippets/poker-videos"]
 	path = snippets/poker-videos
 	url = git@gist.github.com:3b885690f901cefd7e585ae56bfe535d.git
+[submodule "snippets/bimbos"]
+	path = snippets/bimbos
+	url = git@gist.github.com:263b0bfab436cffa34725b58f07c2a67.git
