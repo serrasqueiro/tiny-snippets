@@ -259,3 +259,6 @@
 [submodule "snippets/bimbos"]
 	path = snippets/bimbos
 	url = git@gist.github.com:263b0bfab436cffa34725b58f07c2a67.git
+[submodule "snippets/porteiros"]
+	path = snippets/porteiros
+	url = git@gist.github.com:13e0ccdf84bf98b4777a47c62c674da1.git
