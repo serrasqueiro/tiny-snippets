@@ -262,3 +262,6 @@
 [submodule "snippets/porteiros"]
 	path = snippets/porteiros
 	url = git@gist.github.com:13e0ccdf84bf98b4777a47c62c674da1.git
+[submodule "snippets/cvs-howto"]
+	path = snippets/cvs-howto
+	url = git@gist.github.com:c56d395bd85eea0815dfaea48e1106cd.git
