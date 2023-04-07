@@ -265,3 +265,9 @@
 [submodule "snippets/cvs-howto"]
 	path = snippets/cvs-howto
 	url = git@gist.github.com:c56d395bd85eea0815dfaea48e1106cd.git
+[submodule "snippets/lff"]
+	path = snippets/lff
+	url = git@gist.github.com:a02c36a90c1d2e6f2139f522349507a1.git
+[submodule "snippets/netflixdude"]
+	path = snippets/netflixdude
+	url = git@gist.github.com:6361b35fc1882f43a60dca63a9443d08.git
