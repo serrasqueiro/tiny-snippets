@@ -189,3 +189,15 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:7011cdf094746f44bf3be47d4f8bcfd4.git snippets/risk`
 1. [snippets/debian minimal](https://gist.github.com/serrasqueiro/debmin),
    + `git submodule add git@github.com:serrasqueiro/debmin.git snippets/debian_minimal`
+1. [snippets/poker-videos](https://gist.github.com/serrasqueiro/3b885690f901cefd7e585ae56bfe535d),
+   + `git submodule add git@gist.github.com:3b885690f901cefd7e585ae56bfe535d.git snippets/poker-videos`
+1. [snippets/bimbos](https://gist.github.com/serrasqueiro/263b0bfab436cffa34725b58f07c2a67),
+   + `git submodule add git@gist.github.com:263b0bfab436cffa34725b58f07c2a67.git snippets/bimbos`
+1. [snippets/porteiros](https://gist.github.com/serrasqueiro/13e0ccdf84bf98b4777a47c62c674da1),
+   + `git submodule add git@gist.github.com:13e0ccdf84bf98b4777a47c62c674da1.git snippets/porteiros`
+1. [snippets/cvs-howto](https://gist.github.com/serrasqueiro/c56d395bd85eea0815dfaea48e1106cd),
+   + `git submodule add git@gist.github.com:c56d395bd85eea0815dfaea48e1106cd.git snippets/cvs-howto`
+1. [snippets/lff](https://gist.github.com/serrasqueiro/a02c36a90c1d2e6f2139f522349507a1),
+   + `git submodule add git@gist.github.com:a02c36a90c1d2e6f2139f522349507a1.git snippets/lff`
+1. [snippets/netflixdude](https://gist.github.com/serrasqueiro/6361b35fc1882f43a60dca63a9443d08),
+   + `git submodule add git@gist.github.com:6361b35fc1882f43a60dca63a9443d08.git snippets/netflixdude`
