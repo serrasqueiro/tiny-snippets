@@ -271,3 +271,6 @@
 [submodule "snippets/netflixdude"]
 	path = snippets/netflixdude
 	url = git@gist.github.com:6361b35fc1882f43a60dca63a9443d08.git
+[submodule "snippets/video-porteiro"]
+	path = snippets/video-porteiro
+	url = git@gist.github.com:15705e50326c1abebf9f7608a1d01e40.git
