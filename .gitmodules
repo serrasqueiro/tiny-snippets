@@ -274,3 +274,6 @@
 [submodule "snippets/video-porteiro"]
 	path = snippets/video-porteiro
 	url = git@gist.github.com:15705e50326c1abebf9f7608a1d01e40.git
+[submodule "snippets/consignar-irs"]
+	path = snippets/consignar-irs
+	url = git@gist.github.com:09cd7b7e35d4d13a6289c0c2afc836c5.git
