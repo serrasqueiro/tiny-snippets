@@ -205,3 +205,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:15705e50326c1abebf9f7608a1d01e40.git snippets/video-porteiro`
 1. [snippets/consignar-irs](https://gist.github.com/serrasqueiro/09cd7b7e35d4d13a6289c0c2afc836c5),
    + `git submodule add git@gist.github.com:09cd7b7e35d4d13a6289c0c2afc836c5.git snippets/consignar-irs`
+1. [snippets/ikea](https://gist.github.com/serrasqueiro/6a584b95af1f593eb9480853f52fefc1),
+   + `git submodule add git@gist.github.com:6a584b95af1f593eb9480853f52fefc1.git snippets/ikea`

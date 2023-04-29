@@ -277,3 +277,6 @@
 [submodule "snippets/consignar-irs"]
 	path = snippets/consignar-irs
 	url = git@gist.github.com:09cd7b7e35d4d13a6289c0c2afc836c5.git
+[submodule "snippets/ikea"]
+	path = snippets/ikea
+	url = git@gist.github.com:6a584b95af1f593eb9480853f52fefc1.git
