@@ -207,3 +207,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:09cd7b7e35d4d13a6289c0c2afc836c5.git snippets/consignar-irs`
 1. [snippets/ikea](https://gist.github.com/serrasqueiro/6a584b95af1f593eb9480853f52fefc1),
    + `git submodule add git@gist.github.com:6a584b95af1f593eb9480853f52fefc1.git snippets/ikea`
+1. [snippets/caes-segurados](https://gist.github.com/serrasqueiro/eb4ed1262be49d2442cec7130e2c9fbb),
+   + `git submodule add git@gist.github.com:eb4ed1262be49d2442cec7130e2c9fbb.git snippets/caes-segurados`

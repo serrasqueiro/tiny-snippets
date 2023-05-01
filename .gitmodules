@@ -280,3 +280,6 @@
 [submodule "snippets/ikea"]
 	path = snippets/ikea
 	url = git@gist.github.com:6a584b95af1f593eb9480853f52fefc1.git
+[submodule "snippets/caes-segurados"]
+	path = snippets/caes-segurados
+	url = git@gist.github.com:eb4ed1262be49d2442cec7130e2c9fbb.git
