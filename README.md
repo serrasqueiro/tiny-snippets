@@ -209,3 +209,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:6a584b95af1f593eb9480853f52fefc1.git snippets/ikea`
 1. [snippets/caes-segurados](https://gist.github.com/serrasqueiro/eb4ed1262be49d2442cec7130e2c9fbb),
    + `git submodule add git@gist.github.com:eb4ed1262be49d2442cec7130e2c9fbb.git snippets/caes-segurados`
+1. [snippets/eurovision](https://gist.github.com/serrasqueiro/f69c3294dfc8b9129c95a7c474b212ac),
+   + `git submodule add git@gist.github.com:f69c3294dfc8b9129c95a7c474b212ac.git snippets/eurovision`
