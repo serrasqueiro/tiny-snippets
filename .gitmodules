@@ -283,3 +283,6 @@
 [submodule "snippets/caes-segurados"]
 	path = snippets/caes-segurados
 	url = git@gist.github.com:eb4ed1262be49d2442cec7130e2c9fbb.git
+[submodule "snippets/eurovision"]
+	path = snippets/eurovision
+	url = git@gist.github.com:f69c3294dfc8b9129c95a7c474b212ac.git
