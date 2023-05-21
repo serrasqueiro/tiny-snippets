@@ -211,3 +211,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:eb4ed1262be49d2442cec7130e2c9fbb.git snippets/caes-segurados`
 1. [snippets/eurovision](https://gist.github.com/serrasqueiro/f69c3294dfc8b9129c95a7c474b212ac),
    + `git submodule add git@gist.github.com:f69c3294dfc8b9129c95a7c474b212ac.git snippets/eurovision`
+1. [snippets/shakira](https://gist.github.com/serrasqueiro/2581967589f17db3747cd07c4ae2081e),
+   + `git submodule add git@gist.github.com:2581967589f17db3747cd07c4ae2081e.git snippets/shakira`

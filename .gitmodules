@@ -286,3 +286,6 @@
 [submodule "snippets/eurovision"]
 	path = snippets/eurovision
 	url = git@gist.github.com:f69c3294dfc8b9129c95a7c474b212ac.git
+[submodule "snippets/shakira"]
+	path = snippets/shakira
+	url = git@gist.github.com:2581967589f17db3747cd07c4ae2081e.git
