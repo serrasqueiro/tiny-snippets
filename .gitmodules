@@ -289,3 +289,9 @@
 [submodule "snippets/shakira"]
 	path = snippets/shakira
 	url = git@gist.github.com:2581967589f17db3747cd07c4ae2081e.git
+[submodule "snippets/colores"]
+	path = snippets/colores
+	url = git@gist.github.com:68148115a7b67a1537ca8d057815af17.git
+[submodule "snippets/vpt-samples"]
+	path = snippets/vpt-samples
+	url = git@gist.github.com:cbccc8bfeae59dae14afeadaf07617d7.git

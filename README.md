@@ -213,3 +213,7 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:f69c3294dfc8b9129c95a7c474b212ac.git snippets/eurovision`
 1. [snippets/shakira](https://gist.github.com/serrasqueiro/2581967589f17db3747cd07c4ae2081e),
    + `git submodule add git@gist.github.com:2581967589f17db3747cd07c4ae2081e.git snippets/shakira`
+1. [snippets/colores](https://gist.github.com/serrasqueiro/68148115a7b67a1537ca8d057815af17),
+   + `git submodule add git@gist.github.com:68148115a7b67a1537ca8d057815af17.git snippets/colores`
+1. [snippets/vpt-samples](https://gist.github.com/serrasqueiro/cbccc8bfeae59dae14afeadaf07617d7),
+   + `git submodule add git@gist.github.com:cbccc8bfeae59dae14afeadaf07617d7.git snippets/vpt-samples`
