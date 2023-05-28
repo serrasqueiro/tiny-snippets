@@ -295,3 +295,6 @@
 [submodule "snippets/vpt-samples"]
 	path = snippets/vpt-samples
 	url = git@gist.github.com:cbccc8bfeae59dae14afeadaf07617d7.git
+[submodule "snippets/olhaogelado"]
+	path = snippets/olhaogelado
+	url = git@github.com:serrasqueiro/olhaogelado.git

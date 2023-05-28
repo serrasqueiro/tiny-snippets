@@ -217,3 +217,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:68148115a7b67a1537ca8d057815af17.git snippets/colores`
 1. [snippets/vpt-samples](https://gist.github.com/serrasqueiro/cbccc8bfeae59dae14afeadaf07617d7),
    + `git submodule add git@gist.github.com:cbccc8bfeae59dae14afeadaf07617d7.git snippets/vpt-samples`
+1. [snippets/olhaogelado](https://github.com/serrasqueiro/olhaogelado),
+   + `git submodule add git@github.com:serrasqueiro/olhaogelado.git snippets/olhaogelado`
