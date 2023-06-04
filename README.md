@@ -9,6 +9,8 @@ When reaching here, do:
 - `git submodule update --init --recursive`
 - or, just update your local repository if you did already download this repo:
   + `git submodule foreach "(git checkout master; git pull; echo ___)"`
+To checkout locally to master, use:
+  + `git submodule foreach "(git remote -v | sed s'/.*[\t]/FROM: /'; git checkout master; echo ^+++)"`
 
 ## Log history
 
@@ -219,3 +221,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:cbccc8bfeae59dae14afeadaf07617d7.git snippets/vpt-samples`
 1. [snippets/olhaogelado](https://github.com/serrasqueiro/olhaogelado),
    + `git submodule add git@github.com:serrasqueiro/olhaogelado.git snippets/olhaogelado`
+1. [snippets/another 4433185](https://gist.github.com/serrasqueiro/c22acb8c3044747bd083e9f720de23e7),
+   + `git submodule add git@gist.github.com:c22acb8c3044747bd083e9f720de23e7.git snippets/another_4433185`

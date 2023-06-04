@@ -1,5 +1,7 @@
 #-*- coding: utf-8 -*-
-# tinysnippets.py  (c)2021  Henrique Moreira
+#!/usr/bin/env python3
+
+# tinysnippets.py  (c)2021 .. 2023  Henrique Moreira
 
 """
 Shows sub-modules listed at .gitmodules, to be added on README.md
