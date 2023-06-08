@@ -304,3 +304,6 @@
 [submodule "snippets/greek-alphabet"]
 	path = snippets/greek-alphabet
 	url = git@gist.github.com:c8ff5a94328a346b722e825c471b200e.git
+[submodule "snippets/wifi-routers"]
+	path = snippets/wifi-routers
+	url = git@gist.github.com:1b6583049a21cd2a35c74a40eff73a6e.git
