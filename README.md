@@ -227,3 +227,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:c8ff5a94328a346b722e825c471b200e.git snippets/greek-alphabet`
 1. [snippets/wifi-routers](https://gist.github.com/serrasqueiro/1b6583049a21cd2a35c74a40eff73a6e),
    + `git submodule add git@gist.github.com:1b6583049a21cd2a35c74a40eff73a6e.git snippets/wifi-routers`
+1. [snippets/vuplayer-cddb](https://gist.github.com/serrasqueiro/c4245e84072b63815f49ead5974f61ab),
+   + `git submodule add git@gist.github.com:c4245e84072b63815f49ead5974f61ab.git snippets/vuplayer-cddb`

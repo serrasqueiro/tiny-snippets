@@ -307,3 +307,6 @@
 [submodule "snippets/wifi-routers"]
 	path = snippets/wifi-routers
 	url = git@gist.github.com:1b6583049a21cd2a35c74a40eff73a6e.git
+[submodule "snippets/vuplayer-cddb"]
+	path = snippets/vuplayer-cddb
+	url = git@gist.github.com:c4245e84072b63815f49ead5974f61ab.git
