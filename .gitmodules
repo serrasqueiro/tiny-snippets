@@ -310,3 +310,6 @@
 [submodule "snippets/vuplayer-cddb"]
 	path = snippets/vuplayer-cddb
 	url = git@gist.github.com:c4245e84072b63815f49ead5974f61ab.git
+[submodule "snippets/youtubing"]
+	path = snippets/youtubing
+	url = git@gist.github.com:4252c18f725f799136701503c50710b4.git
