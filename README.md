@@ -231,3 +231,7 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:c4245e84072b63815f49ead5974f61ab.git snippets/vuplayer-cddb`
 1. [snippets/youtubing](https://gist.github.com/serrasqueiro/4252c18f725f799136701503c50710b4),
    + `git submodule add git@gist.github.com:4252c18f725f799136701503c50710b4.git snippets/youtubing`
+1. [snippets/dissertacao](https://gist.github.com/serrasqueiro/aa927bbc0a31e62c91d640e00c081887),
+   + `git submodule add git@gist.github.com:aa927bbc0a31e62c91d640e00c081887.git snippets/dissertacao`
+1. [snippets/dogs](https://gist.github.com/serrasqueiro/083ecd7fd6c823686595835d1a311894),
+   + `git submodule add git@gist.github.com:083ecd7fd6c823686595835d1a311894.git snippets/dogs`

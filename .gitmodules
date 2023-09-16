@@ -313,3 +313,9 @@
 [submodule "snippets/youtubing"]
 	path = snippets/youtubing
 	url = git@gist.github.com:4252c18f725f799136701503c50710b4.git
+[submodule "snippets/dissertacao"]
+	path = snippets/dissertacao
+	url = git@gist.github.com:aa927bbc0a31e62c91d640e00c081887.git
+[submodule "snippets/dogs"]
+	path = snippets/dogs
+	url = git@gist.github.com:083ecd7fd6c823686595835d1a311894.git
