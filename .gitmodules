@@ -319,3 +319,6 @@
 [submodule "snippets/dogs"]
 	path = snippets/dogs
 	url = git@gist.github.com:083ecd7fd6c823686595835d1a311894.git
+[submodule "snippets/filefly"]
+	path = snippets/filefly
+	url = git@gist.github.com:83346f41df6cb0c21cfdb92dd5dce3f0.git

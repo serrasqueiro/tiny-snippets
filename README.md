@@ -235,3 +235,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:aa927bbc0a31e62c91d640e00c081887.git snippets/dissertacao`
 1. [snippets/dogs](https://gist.github.com/serrasqueiro/083ecd7fd6c823686595835d1a311894),
    + `git submodule add git@gist.github.com:083ecd7fd6c823686595835d1a311894.git snippets/dogs`
+1. [snippets/filefly](https://gist.github.com/serrasqueiro/83346f41df6cb0c21cfdb92dd5dce3f0),
+   + `git submodule add git@gist.github.com:83346f41df6cb0c21cfdb92dd5dce3f0.git snippets/filefly`
