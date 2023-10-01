@@ -322,3 +322,6 @@
 [submodule "snippets/filefly"]
 	path = snippets/filefly
 	url = git@gist.github.com:83346f41df6cb0c21cfdb92dd5dce3f0.git
+[submodule "snippets/dominant_iban"]
+	path = snippets/dominant_iban
+	url = git@gist.github.com:d3111c299e87ec814fc3c7c8b915c116.git
