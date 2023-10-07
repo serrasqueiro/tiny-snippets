@@ -325,3 +325,6 @@
 [submodule "snippets/dominant_iban"]
 	path = snippets/dominant_iban
 	url = git@gist.github.com:d3111c299e87ec814fc3c7c8b915c116.git
+[submodule "snippets/vias-principais"]
+	path = snippets/vias-principais
+	url = ../viasprincipais

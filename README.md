@@ -239,3 +239,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:83346f41df6cb0c21cfdb92dd5dce3f0.git snippets/filefly`
 1. [snippets/dominant iban](https://gist.github.com/serrasqueiro/d3111c299e87ec814fc3c7c8b915c116),
    + `git submodule add git@gist.github.com:d3111c299e87ec814fc3c7c8b915c116.git snippets/dominant_iban`
+1. [snippets/vias-principais](https://gist.github.com/serrasqueiro/../viasprincipais),
+   + `git submodule add ../viasprincipais snippets/vias-principais`
