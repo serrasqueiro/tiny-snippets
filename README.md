@@ -241,3 +241,9 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:d3111c299e87ec814fc3c7c8b915c116.git snippets/dominant_iban`
 1. [snippets/vias-principais](https://gist.github.com/serrasqueiro/../viasprincipais),
    + `git submodule add ../viasprincipais snippets/vias-principais`
+1. [snippets/vias-principais](https://gist.github.com/serrasqueiro/../viasprincipais),
+   + `git submodule add ../viasprincipais snippets/vias-principais`
+1. [snippets/manual-esquentador](https://gist.github.com/serrasqueiro/247b51606d12bd14a4230a49f33133e1),
+   + `git submodule add git@gist.github.com:247b51606d12bd14a4230a49f33133e1.git snippets/manual-esquentador`
+1. [snippets/bancos-online](https://gist.github.com/serrasqueiro/249523b078d33dc8a78efd4caf95914c),
+   + `git submodule add git@gist.github.com:249523b078d33dc8a78efd4caf95914c.git snippets/bancos-online`
