@@ -328,3 +328,9 @@
 [submodule "snippets/vias-principais"]
 	path = snippets/vias-principais
 	url = ../viasprincipais
+[submodule "snippets/manual-esquentador"]
+	path = snippets/manual-esquentador
+	url = git@gist.github.com:247b51606d12bd14a4230a49f33133e1.git
+[submodule "snippets/bancos-online"]
+	path = snippets/bancos-online
+	url = git@gist.github.com:249523b078d33dc8a78efd4caf95914c.git
