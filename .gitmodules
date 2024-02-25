@@ -337,6 +337,6 @@
 [submodule "snippets/scanrec"]
 	path = snippets/scanrec
 	url = git@gist.github.com:1dffa8ea30ad302a7c12eaaff741d17a.git
-[submodule "pizzas"]
-	path = pizzas
+[submodule "snippets/pizzas"]
+	path = snippets/pizzas
 	url = git@gist.github.com:014ade48300aee68bad1c90167a84890.git

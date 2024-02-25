@@ -27,6 +27,8 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:3b5705682767e04a4b4516da500c0930.git snippets/git_packers`
 1. [snippets/iban pt nib](https://gist.github.com/serrasqueiro/ed970d4306d6e824d29a9e9e136be654),
    + `git submodule add git@gist.github.com:ed970d4306d6e824d29a9e9e136be654.git snippets/iban_pt_nib`
+1. [snippets/vias-principais](https://www.github.com/serrasqueiro/viasprincipais),
+   + `git submodule add ../viasprincipais snippets/vias-principais`
 1. [snippets/reident](https://gist.github.com/serrasqueiro/31e19db1dba146e512e4ea39c2c76279),
    + `git submodule add git@gist.github.com:31e19db1dba146e512e4ea39c2c76279.git snippets/reident`
 1. [snippets/fastexcel](https://gist.github.com/serrasqueiro/fa9188a3fe219ef3e72371a00c633192),
@@ -239,15 +241,11 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:83346f41df6cb0c21cfdb92dd5dce3f0.git snippets/filefly`
 1. [snippets/dominant iban](https://gist.github.com/serrasqueiro/d3111c299e87ec814fc3c7c8b915c116),
    + `git submodule add git@gist.github.com:d3111c299e87ec814fc3c7c8b915c116.git snippets/dominant_iban`
-1. [snippets/vias-principais](https://gist.github.com/serrasqueiro/../viasprincipais),
-   + `git submodule add ../viasprincipais snippets/vias-principais`
-1. [snippets/vias-principais](https://gist.github.com/serrasqueiro/../viasprincipais),
-   + `git submodule add ../viasprincipais snippets/vias-principais`
 1. [snippets/manual-esquentador](https://gist.github.com/serrasqueiro/247b51606d12bd14a4230a49f33133e1),
    + `git submodule add git@gist.github.com:247b51606d12bd14a4230a49f33133e1.git snippets/manual-esquentador`
 1. [snippets/bancos-online](https://gist.github.com/serrasqueiro/249523b078d33dc8a78efd4caf95914c),
    + `git submodule add git@gist.github.com:249523b078d33dc8a78efd4caf95914c.git snippets/bancos-online`
-1. [snippets/vias-principais](https://gist.github.com/serrasqueiro/../viasprincipais),
-   + `git submodule add ../viasprincipais snippets/vias-principais`
 1. [snippets/scanrec](https://gist.github.com/serrasqueiro/1dffa8ea30ad302a7c12eaaff741d17a),
    + `git submodule add git@gist.github.com:1dffa8ea30ad302a7c12eaaff741d17a.git snippets/scanrec`
+1. [snippets/pizzas](https://gist.github.com/serrasqueiro/014ade48300aee68bad1c90167a84890),
+   + `git submodule add git@gist.github.com:014ade48300aee68bad1c90167a84890.git snippets/pizzas`

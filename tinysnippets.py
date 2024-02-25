@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
 
-# tinysnippets.py  (c)2021 .. 2023  Henrique Moreira
+# tinysnippets.py  (c)2021 .. 2024  Henrique Moreira
 
 """
 Shows sub-modules listed at .gitmodules, to be added on README.md
@@ -31,7 +31,7 @@ def main():
 
 def run(args:list) -> int:
     """ Main script """
-    hashes = hashes_there()
+    hashes = hashes_there(debug=DEBUG)
     if DEBUG > 0:
         print('\n'.join(['# +++ ' + ala for ala in hashes]), end="\n++++\n\n")
     fname = args[0] if args else ".gitmodules"
@@ -58,7 +58,7 @@ Here are the list of historical adds.
         # Appending README.md file
         if news:
             print("#	New lines at {}: {}".format(IO_FILE, news.count('\n')))
-        append_data(news)
+        did = append_data(news)
     else:
         print(astr)
     return 0
@@ -92,6 +92,8 @@ def dump_subs(hashes, pre:str, within:str, fname:str, debug=0) -> tuple:
         sub = f" {last}" if last else ""
         if rest.startswith("git@github.com:"):
             s_url = f"[{better_path(last)}](https://github.com/{dock})"
+        elif dock.startswith("../"):
+            s_url = f"[{better_path(last)}](https://www.github.com/serrasqueiro/{dock[len('../'):]})"
         else:
             s_url = f"[{better_path(last)}](https://gist.github.com/serrasqueiro/{dock})"
         if s_url:
@@ -108,7 +110,7 @@ def dump_subs(hashes, pre:str, within:str, fname:str, debug=0) -> tuple:
             astring = ""
         astr += astring
         if rest not in hashes:
-            #print(">>>", astring, end="<<<\n\n")
+            #print(">>>", rest + "!!!\n" + astring, end="<<<\n\n")
             news += astring
         subs += rest + "\n"
         if not out:
@@ -120,15 +122,24 @@ def better_path(astr:str) -> str:
     result = astr.replace("_", " ")
     return result
 
-def hashes_there(fname:str=""):
+def hashes_there(fname:str="", debug=0):
+    assert debug >= 0, "Debug"
     magic_str = "git@gist.github.com:"
     alt_str = "git@github.com:"
     _, _, lines = io_filename(True, fname)
     hashes = []
     last = ""
-    for line in lines:
-        if magic_str not in line and alt_str not in line:
+    for idx, line in enumerate(lines, 1):
+        t_flag = magic_str not in line and alt_str not in line
+        if debug > 0:
+            print(f"::: Line {idx}, t_flag={t_flag}: {line if line else '--'}", end="\n\n" if t_flag else "\n")
+        if t_flag:
             last = line
+            if debug > 0:
+                print(f"::: New hash:", " add ../" in line, line, end="\n\n")
+            if " add ../" in line:
+                s_hash = line.split(" add ", maxsplit=1)[1].split(" ", maxsplit=1)[0]
+                hashes.append(s_hash)
             continue
         pair = line.split(":", maxsplit=1)
         left = pair[0].split(" ")[-1]
@@ -138,8 +149,11 @@ def hashes_there(fname:str=""):
         sub_dir = last[len("1. ["):].split("]")[0].replace(" ", "_")
         if not os.path.isdir(sub_dir):
             print("#Warn:", "Not a sub dir:", sub_dir)
-        hashes.append(left + ":" + a_hash)
+        s_hash = left + ":" + a_hash
+        hashes.append(s_hash)
         last = line
+        if debug > 0:
+            print(f"::: Line {idx}, s_hash:", s_hash, end="\n\n")
     return hashes
 
 def io_filename(to_read:bool, fname:str=""):
