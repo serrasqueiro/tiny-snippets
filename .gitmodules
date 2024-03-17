@@ -340,3 +340,6 @@
 [submodule "snippets/pizzas"]
 	path = snippets/pizzas
 	url = git@gist.github.com:014ade48300aee68bad1c90167a84890.git
+[submodule "snippets/chave-movel-digital"]
+	path = snippets/chave-movel-digital
+	url = git@gist.github.com:dbe088e2a86c532ac17eeeafaf2ab541.git
