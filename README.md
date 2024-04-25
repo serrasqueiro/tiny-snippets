@@ -251,3 +251,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:014ade48300aee68bad1c90167a84890.git snippets/pizzas`
 1. [snippets/chave-movel-digital](https://gist.github.com/serrasqueiro/dbe088e2a86c532ac17eeeafaf2ab541),
    + `git submodule add git@gist.github.com:dbe088e2a86c532ac17eeeafaf2ab541.git snippets/chave-movel-digital`
+1. [snippets/banco-ibans](https://gist.github.com/serrasqueiro/c2e1bc13959ec52f2f59b38593dd5ae1),
+   + `git submodule add git@gist.github.com:c2e1bc13959ec52f2f59b38593dd5ae1.git snippets/banco-ibans`

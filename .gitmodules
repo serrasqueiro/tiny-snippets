@@ -343,3 +343,6 @@
 [submodule "snippets/chave-movel-digital"]
 	path = snippets/chave-movel-digital
 	url = git@gist.github.com:dbe088e2a86c532ac17eeeafaf2ab541.git
+[submodule "snippets/banco-ibans"]
+	path = snippets/banco-ibans
+	url = git@gist.github.com:c2e1bc13959ec52f2f59b38593dd5ae1.git
