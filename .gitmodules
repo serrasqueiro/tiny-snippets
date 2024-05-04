@@ -346,3 +346,6 @@
 [submodule "snippets/banco-ibans"]
 	path = snippets/banco-ibans
 	url = git@gist.github.com:c2e1bc13959ec52f2f59b38593dd5ae1.git
+[submodule "snippets/atestado-incapacidade"]
+	path = snippets/atestado-incapacidade
+	url = git@gist.github.com:3b59298acd56f5d836f2c7667a4c4390.git
