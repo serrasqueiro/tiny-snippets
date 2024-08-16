@@ -255,3 +255,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:c2e1bc13959ec52f2f59b38593dd5ae1.git snippets/banco-ibans`
 1. [snippets/atestado-incapacidade](https://gist.github.com/serrasqueiro/3b59298acd56f5d836f2c7667a4c4390),
    + `git submodule add git@gist.github.com:3b59298acd56f5d836f2c7667a4c4390.git snippets/atestado-incapacidade`
+1. [snippets/how-to-submodule](https://gist.github.com/serrasqueiro/3f1ff4f213a049afc624283aac7197fb),
+   + `git submodule add git@gist.github.com:3f1ff4f213a049afc624283aac7197fb.git snippets/how-to-submodule`

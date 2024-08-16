@@ -349,3 +349,6 @@
 [submodule "snippets/atestado-incapacidade"]
 	path = snippets/atestado-incapacidade
 	url = git@gist.github.com:3b59298acd56f5d836f2c7667a4c4390.git
+[submodule "snippets/how-to-submodule"]
+	path = snippets/how-to-submodule
+	url = git@gist.github.com:3f1ff4f213a049afc624283aac7197fb.git
