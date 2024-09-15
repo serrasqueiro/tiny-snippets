@@ -257,3 +257,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:3b59298acd56f5d836f2c7667a4c4390.git snippets/atestado-incapacidade`
 1. [snippets/how-to-submodule](https://gist.github.com/serrasqueiro/3f1ff4f213a049afc624283aac7197fb),
    + `git submodule add git@gist.github.com:3f1ff4f213a049afc624283aac7197fb.git snippets/how-to-submodule`
+1. [snippets/subnet](https://gist.github.com/serrasqueiro/79ed101f7aae014ead931ac60c778b50),
+   + `git submodule add git@gist.github.com:79ed101f7aae014ead931ac60c778b50.git snippets/subnet`

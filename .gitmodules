@@ -352,3 +352,6 @@
 [submodule "snippets/how-to-submodule"]
 	path = snippets/how-to-submodule
 	url = git@gist.github.com:3f1ff4f213a049afc624283aac7197fb.git
+[submodule "snippets/subnet"]
+	path = snippets/subnet
+	url = git@gist.github.com:79ed101f7aae014ead931ac60c778b50.git
