@@ -355,3 +355,6 @@
 [submodule "snippets/subnet"]
 	path = snippets/subnet
 	url = git@gist.github.com:79ed101f7aae014ead931ac60c778b50.git
+[submodule "snippets/earth-view"]
+	path = snippets/earth-view
+	url = git@gist.github.com:c887bcf4ffec9373267e38db459f7a50.git
