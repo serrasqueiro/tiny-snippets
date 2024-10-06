@@ -361,3 +361,6 @@
 [submodule "snippets/youtube-urls"]
 	path = snippets/youtube-urls
 	url = git@gist.github.com:c2e1ed9dd300cc3bc2e27b76a34ce120.git
+[submodule "snippets/WEBP2JPG"]
+	path = snippets/WEBP2JPG
+	url = git@github.com:serrasqueiro/WEBP2JPG.git
