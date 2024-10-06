@@ -358,3 +358,6 @@
 [submodule "snippets/earth-view"]
 	path = snippets/earth-view
 	url = git@gist.github.com:c887bcf4ffec9373267e38db459f7a50.git
+[submodule "snippets/youtube-urls"]
+	path = snippets/youtube-urls
+	url = git@gist.github.com:c2e1ed9dd300cc3bc2e27b76a34ce120.git

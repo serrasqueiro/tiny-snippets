@@ -261,3 +261,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:79ed101f7aae014ead931ac60c778b50.git snippets/subnet`
 1. [snippets/earth-view](https://gist.github.com/serrasqueiro/c887bcf4ffec9373267e38db459f7a50),
    + `git submodule add git@gist.github.com:c887bcf4ffec9373267e38db459f7a50.git snippets/earth-view`
+1. [snippets/youtube-urls](https://gist.github.com/serrasqueiro/c2e1ed9dd300cc3bc2e27b76a34ce120),
+   + `git submodule add git@gist.github.com:c2e1ed9dd300cc3bc2e27b76a34ce120.git snippets/youtube-urls`
