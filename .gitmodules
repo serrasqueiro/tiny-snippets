@@ -364,3 +364,6 @@
 [submodule "snippets/WEBP2JPG"]
 	path = snippets/WEBP2JPG
 	url = git@github.com:serrasqueiro/WEBP2JPG.git
+[submodule "snippets/dir-lists"]
+	path = snippets/dir-lists
+	url = git@gist.github.com:ec9e4f55c3bb35b12d8b7cc14ca05b8a.git
