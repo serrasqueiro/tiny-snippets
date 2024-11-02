@@ -367,3 +367,9 @@
 [submodule "snippets/dir-lists"]
 	path = snippets/dir-lists
 	url = git@gist.github.com:ec9e4f55c3bb35b12d8b7cc14ca05b8a.git
+[submodule "snippets/base32"]
+	path = snippets/base32
+	url = git@gist.github.com:7e1fd27b8034e80f361cb149f264f6b1.git
+[submodule "snippets/pangrama"]
+	path = snippets/pangrama
+	url = git@gist.github.com:17e08b471628f568de2e34248c68e27c.git

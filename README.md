@@ -265,3 +265,9 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:c2e1ed9dd300cc3bc2e27b76a34ce120.git snippets/youtube-urls`
 1. [snippets/WEBP2JPG](https://github.com/serrasqueiro/WEBP2JPG),
    + `git submodule add git@github.com:serrasqueiro/WEBP2JPG.git snippets/WEBP2JPG`
+1. [snippets/dir-lists](https://gist.github.com/serrasqueiro/ec9e4f55c3bb35b12d8b7cc14ca05b8a),
+   + `git submodule add git@gist.github.com:ec9e4f55c3bb35b12d8b7cc14ca05b8a.git snippets/dir-lists`
+1. [snippets/base32](https://gist.github.com/serrasqueiro/7e1fd27b8034e80f361cb149f264f6b1),
+   + `git submodule add git@gist.github.com:7e1fd27b8034e80f361cb149f264f6b1.git snippets/base32`
+1. [snippets/pangrama](https://gist.github.com/serrasqueiro/17e08b471628f568de2e34248c68e27c),
+   + `git submodule add git@gist.github.com:17e08b471628f568de2e34248c68e27c.git snippets/pangrama`
