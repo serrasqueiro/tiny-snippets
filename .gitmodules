@@ -1,6 +1,6 @@
 [submodule "misc/keepit"]
 	path = misc/keepit
-	url = git@github.com:serrasqueiro/keepit.git
+	url = ../keepit.git
 [submodule "snippets/iban_pt_nib"]
 	path = snippets/iban_pt_nib
 	url = git@gist.github.com:ed970d4306d6e824d29a9e9e136be654.git
@@ -30,7 +30,7 @@
 	url = git@gist.github.com:5c1a96781b401473025448c8473bd6f5.git
 [submodule "snippets/slb_dates"]
 	path = snippets/slb_dates
-	url = git@github.com:serrasqueiro/jogaemcasa.git
+	url = ../jogaemcasa.git
 [submodule "snippets/from_java_cc_map"]
 	path = snippets/from_java_cc_map
 	url = git@gist.github.com:2067e139bab4ed177c145921df28ba03.git
@@ -81,7 +81,7 @@
 	url = git@gist.github.com:f55bb4a18dabaabd82f05d3b2a3b8f24.git
 [submodule "snippets/links"]
 	path = snippets/links
-	url = git@github.com:serrasqueiro/links.git
+	url = ../links.git
 [submodule "snippets/gist_url"]
 	path = snippets/gist_url
 	url = git@gist.github.com:08c51698a7668abba4ed6910f9a16ce3.git
@@ -159,7 +159,7 @@
 	url = git@gist.github.com:566c98dd83a90eb12987dd896aea1902.git
 [submodule "snippets/debian_minimal"]
 	path = snippets/debian_minimal
-	url = git@github.com:serrasqueiro/debmin.git
+	url = ../debmin.git
 [submodule "snippets/iuc"]
 	path = snippets/iuc
 	url = git@gist.github.com:6258d2f50c769179a32cd690dcea6aca.git
@@ -225,7 +225,7 @@
 	url = git@gist.github.com:b3b2ecbdb2a4e9b3632c22483e72bbbe.git
 [submodule "src/etc/piban"]
 	path = src/etc/piban
-	url = git@github.com:serrasqueiro/piban.git
+	url = ../piban.git
 [submodule "snippets/condos"]
 	path = snippets/condos
 	url = git@gist.github.com:adee27ec209e97b6cf6b82eec6603e6c.git
@@ -246,7 +246,7 @@
 	url = git@gist.github.com:a312dc6e32a1841d6d50a4a31b93e963.git
 [submodule "snippets/eredes"]
 	path = snippets/eredes
-	url = git@github.com:serrasqueiro/eredes.git
+	url = ../eredes.git
 [submodule "snippets/entidades-mb"]
 	path = snippets/entidades-mb
 	url = git@gist.github.com:67649b0eb1914998dba4ab69dddd3a9d.git
@@ -297,7 +297,7 @@
 	url = git@gist.github.com:cbccc8bfeae59dae14afeadaf07617d7.git
 [submodule "snippets/olhaogelado"]
 	path = snippets/olhaogelado
-	url = git@github.com:serrasqueiro/olhaogelado.git
+	url = ../olhaogelado.git
 [submodule "snippets/another_4433185"]
 	path = snippets/another_4433185
 	url = git@gist.github.com:c22acb8c3044747bd083e9f720de23e7.git
@@ -363,7 +363,7 @@
 	url = git@gist.github.com:c2e1ed9dd300cc3bc2e27b76a34ce120.git
 [submodule "snippets/WEBP2JPG"]
 	path = snippets/WEBP2JPG
-	url = git@github.com:serrasqueiro/WEBP2JPG.git
+	url = ../WEBP2JPG.git
 [submodule "snippets/dir-lists"]
 	path = snippets/dir-lists
 	url = git@gist.github.com:ec9e4f55c3bb35b12d8b7cc14ca05b8a.git
