@@ -139,7 +139,8 @@ def hashes_there(fname:str="", debug=0):
                 print(f"::: New hash:", " add ../" in line, line, end="\n\n")
             if " add ../" in line:
                 s_hash = line.split(" add ", maxsplit=1)[1].split(" ", maxsplit=1)[0]
-                hashes.append(s_hash)
+                new_hash(s_hash, "N1", hashes)
+                #hashes.append(s_hash)
             continue
         pair = line.split(":", maxsplit=1)
         left = pair[0].split(" ")[-1]
@@ -150,11 +151,27 @@ def hashes_there(fname:str="", debug=0):
         if not os.path.isdir(sub_dir):
             print("#Warn:", "Not a sub dir:", sub_dir)
         s_hash = left + ":" + a_hash
-        hashes.append(s_hash)
+        new_hash(s_hash, "N2", hashes)
+        #hashes.append(s_hash)
         last = line
         if debug > 0:
             print(f"::: Line {idx}, s_hash:", s_hash, end="\n\n")
     return hashes
+
+def new_hash(astr, kind, hashes):
+    assert astr, "new_hash()"
+    assert isinstance(kind, str) and kind, "N1|N2"
+    if kind == "N1":
+        assert astr.endswith(".git"), astr
+    elif kind == "N2":
+        assert astr.startswith("git@gist.github.com:"), astr
+        assert astr.endswith(".git"), astr
+    else:
+        return False
+    hashes.append(astr)
+    if DEBUG > 0:
+        print(":::", len(hashes), kind, astr)
+    return True
 
 def io_filename(to_read:bool, fname:str=""):
     """ Opens file and returns triplet:

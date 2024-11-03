@@ -327,7 +327,7 @@
 	url = git@gist.github.com:d3111c299e87ec814fc3c7c8b915c116.git
 [submodule "snippets/vias-principais"]
 	path = snippets/vias-principais
-	url = ../viasprincipais
+	url = ../viasprincipais.git
 [submodule "snippets/manual-esquentador"]
 	path = snippets/manual-esquentador
 	url = git@gist.github.com:247b51606d12bd14a4230a49f33133e1.git

@@ -18,7 +18,7 @@ Original [github](https://github.com/) repo [here](https://github.com/serrasquei
 
 Bigger submodule(s):
 1. [misc/keepit](https://github.com/serrasqueiro/keepit),
-   + `git submodule add git@github.com:serrasqueiro/keepit.git misc/keepit`
+   + `git submodule add ../keepit.git misc/keepit`
 
 Here are the list of historical adds.
 1. [snippets/gist url](https://gist.github.com/serrasqueiro/08c51698a7668abba4ed6910f9a16ce3),
@@ -28,7 +28,7 @@ Here are the list of historical adds.
 1. [snippets/iban pt nib](https://gist.github.com/serrasqueiro/ed970d4306d6e824d29a9e9e136be654),
    + `git submodule add git@gist.github.com:ed970d4306d6e824d29a9e9e136be654.git snippets/iban_pt_nib`
 1. [snippets/vias-principais](https://www.github.com/serrasqueiro/viasprincipais),
-   + `git submodule add ../viasprincipais snippets/vias-principais`
+   + `git submodule add ../viasprincipais.git snippets/vias-principais`
 1. [snippets/reident](https://gist.github.com/serrasqueiro/31e19db1dba146e512e4ea39c2c76279),
    + `git submodule add git@gist.github.com:31e19db1dba146e512e4ea39c2c76279.git snippets/reident`
 1. [snippets/fastexcel](https://gist.github.com/serrasqueiro/fa9188a3fe219ef3e72371a00c633192),
@@ -48,7 +48,7 @@ Here are the list of historical adds.
 1. [snippets/sampledates](https://gist.github.com/serrasqueiro/5c1a96781b401473025448c8473bd6f5),
    + `git submodule add git@gist.github.com:5c1a96781b401473025448c8473bd6f5.git snippets/sampledates`
 1. [snippets/slb dates](https://github.com/serrasqueiro/jogaemcasa),
-   + `git submodule add git@github.com:serrasqueiro/jogaemcasa.git snippets/slb_dates`
+   + `git submodule add ../jogaemcasa.git snippets/slb_dates`
    + tiny-url 2022: [here](https://tinyurl.com/benfica2022), 2021 [here](https://gist.github.com/serrasqueiro/00aa98ed3a54f348fd5afdee81d8da6f/90d740575193c494d145e6c222627066705ba0e2)
 1. [snippets/from java cc map](https://gist.github.com/serrasqueiro/2067e139bab4ed177c145921df28ba03)
    + `git submodule add git@gist.github.com:2067e139bab4ed177c145921df28ba03.git snippets/from_java_cc_map`
@@ -178,12 +178,12 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:b9cd37a5d5dc93a4b882164993bf5c23.git snippets/cmd`
 1. [snippets/periodic-table](https://gist.github.com/serrasqueiro/dce730c265ccc0e9881eba5374a97f62),
    + `git submodule add git@gist.github.com:dce730c265ccc0e9881eba5374a97f62.git snippets/periodic-table`
-1. [src/etc/piban](https://github.com/serrasqueiro/piban),
-   + `git submodule add git@github.com:serrasqueiro/piban.git src/etc/piban`
+1. [src/etc/piban](https://www.github.com/serrasqueiro/piban),
+   + `git submodule add ../piban.git src/etc/piban`
 1. [snippets/greader](https://gist.github.com/serrasqueiro/a312dc6e32a1841d6d50a4a31b93e963),
    + `git submodule add git@gist.github.com:a312dc6e32a1841d6d50a4a31b93e963.git snippets/greader`
-1. [snippets/eredes](https://github.com/serrasqueiro/eredes),
-   + `git submodule add git@github.com:serrasqueiro/eredes.git snippets/eredes`
+1. [snippets/eredes](https://www.github.com/serrasqueiro/eredes),
+   + `git submodule add ../eredes.git snippets/eredes`
 1. [snippets/entidades-mb](https://gist.github.com/serrasqueiro/67649b0eb1914998dba4ab69dddd3a9d),
    + `git submodule add git@gist.github.com:67649b0eb1914998dba4ab69dddd3a9d.git snippets/entidades-mb`
 1. [snippets/preferred-ssh](https://gist.github.com/serrasqueiro/cb87ffe0445bfe108dbd8d4ed73ab484),
@@ -191,8 +191,8 @@ Here are the list of historical adds.
 
 1. [snippets/risk](https://gist.github.com/serrasqueiro/7011cdf094746f44bf3be47d4f8bcfd4),
    + `git submodule add git@gist.github.com:7011cdf094746f44bf3be47d4f8bcfd4.git snippets/risk`
-1. [snippets/debian minimal](https://gist.github.com/serrasqueiro/debmin),
-   + `git submodule add git@github.com:serrasqueiro/debmin.git snippets/debian_minimal`
+1. [snippets/debian minimal](https://www.github.com/serrasqueiro/debmin),
+   + `git submodule add ../debmin.git snippets/debian_minimal`
 1. [snippets/poker-videos](https://gist.github.com/serrasqueiro/3b885690f901cefd7e585ae56bfe535d),
    + `git submodule add git@gist.github.com:3b885690f901cefd7e585ae56bfe535d.git snippets/poker-videos`
 1. [snippets/bimbos](https://gist.github.com/serrasqueiro/263b0bfab436cffa34725b58f07c2a67),
@@ -221,8 +221,8 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:68148115a7b67a1537ca8d057815af17.git snippets/colores`
 1. [snippets/vpt-samples](https://gist.github.com/serrasqueiro/cbccc8bfeae59dae14afeadaf07617d7),
    + `git submodule add git@gist.github.com:cbccc8bfeae59dae14afeadaf07617d7.git snippets/vpt-samples`
-1. [snippets/olhaogelado](https://github.com/serrasqueiro/olhaogelado),
-   + `git submodule add git@github.com:serrasqueiro/olhaogelado.git snippets/olhaogelado`
+1. [snippets/olhaogelado](https://www.github.com/serrasqueiro/olhaogelado),
+   + `git submodule add ../olhaogelado.git snippets/olhaogelado`
 1. [snippets/another 4433185](https://gist.github.com/serrasqueiro/c22acb8c3044747bd083e9f720de23e7),
    + `git submodule add git@gist.github.com:c22acb8c3044747bd083e9f720de23e7.git snippets/another_4433185`
 1. [snippets/greek-alphabet](https://gist.github.com/serrasqueiro/c8ff5a94328a346b722e825c471b200e),
@@ -263,8 +263,8 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:c887bcf4ffec9373267e38db459f7a50.git snippets/earth-view`
 1. [snippets/youtube-urls](https://gist.github.com/serrasqueiro/c2e1ed9dd300cc3bc2e27b76a34ce120),
    + `git submodule add git@gist.github.com:c2e1ed9dd300cc3bc2e27b76a34ce120.git snippets/youtube-urls`
-1. [snippets/WEBP2JPG](https://github.com/serrasqueiro/WEBP2JPG),
-   + `git submodule add git@github.com:serrasqueiro/WEBP2JPG.git snippets/WEBP2JPG`
+1. [snippets/WEBP2JPG](https://www.github.com/serrasqueiro/WEBP2JPG),
+   + `git submodule add ../WEBP2JPG.git snippets/WEBP2JPG`
 1. [snippets/dir-lists](https://gist.github.com/serrasqueiro/ec9e4f55c3bb35b12d8b7cc14ca05b8a),
    + `git submodule add git@gist.github.com:ec9e4f55c3bb35b12d8b7cc14ca05b8a.git snippets/dir-lists`
 1. [snippets/base32](https://gist.github.com/serrasqueiro/7e1fd27b8034e80f361cb149f264f6b1),
