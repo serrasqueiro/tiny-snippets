@@ -373,3 +373,6 @@
 [submodule "snippets/pangrama"]
 	path = snippets/pangrama
 	url = git@gist.github.com:17e08b471628f568de2e34248c68e27c.git
+[submodule "snippets/windows-atalhos"]
+	path = snippets/windows-atalhos
+	url = git@gist.github.com:75a422121b595f89408b76a7c9048bc2.git

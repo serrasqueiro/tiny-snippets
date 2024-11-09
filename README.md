@@ -271,3 +271,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:7e1fd27b8034e80f361cb149f264f6b1.git snippets/base32`
 1. [snippets/pangrama](https://gist.github.com/serrasqueiro/17e08b471628f568de2e34248c68e27c),
    + `git submodule add git@gist.github.com:17e08b471628f568de2e34248c68e27c.git snippets/pangrama`
+1. [snippets/windows-atalhos](https://gist.github.com/serrasqueiro/75a422121b595f89408b76a7c9048bc2),
+   + `git submodule add git@gist.github.com:75a422121b595f89408b76a7c9048bc2.git snippets/windows-atalhos`
