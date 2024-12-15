@@ -186,6 +186,8 @@ Here are the list of historical adds.
    + `git submodule add ../eredes.git snippets/eredes`
 1. [snippets/entidades-mb](https://gist.github.com/serrasqueiro/67649b0eb1914998dba4ab69dddd3a9d),
    + `git submodule add git@gist.github.com:67649b0eb1914998dba4ab69dddd3a9d.git snippets/entidades-mb`
+1. [snippets/entidades-md](https://gist.github.com/serrasqueiro/86c6c26e31509a0e054bca8965b100e7),
+   + `git submodule add git@gist.github.com:86c6c26e31509a0e054bca8965b100e7.git snippets/entidades-md`
 1. [snippets/preferred-ssh](https://gist.github.com/serrasqueiro/cb87ffe0445bfe108dbd8d4ed73ab484),
    + `git submodule add git@gist.github.com:cb87ffe0445bfe108dbd8d4ed73ab484.git snippets/preferred-ssh`
 

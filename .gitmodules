@@ -376,3 +376,6 @@
 [submodule "snippets/windows-atalhos"]
 	path = snippets/windows-atalhos
 	url = git@gist.github.com:75a422121b595f89408b76a7c9048bc2.git
+[submodule "snippets/entidades-md"]
+	path = snippets/entidades-md
+	url = git@gist.github.com:86c6c26e31509a0e054bca8965b100e7.git
