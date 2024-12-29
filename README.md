@@ -275,3 +275,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:17e08b471628f568de2e34248c68e27c.git snippets/pangrama`
 1. [snippets/windows-atalhos](https://gist.github.com/serrasqueiro/75a422121b595f89408b76a7c9048bc2),
    + `git submodule add git@gist.github.com:75a422121b595f89408b76a7c9048bc2.git snippets/windows-atalhos`
+1. [snippets/tiny-crc-32](https://gist.github.com/serrasqueiro/f2302adad195bcbcdd825ed9a6a2065c),
+   + `git submodule add git@gist.github.com:f2302adad195bcbcdd825ed9a6a2065c.git snippets/tiny-crc-32`

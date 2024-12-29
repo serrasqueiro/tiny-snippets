@@ -379,3 +379,6 @@
 [submodule "snippets/entidades-md"]
 	path = snippets/entidades-md
 	url = git@gist.github.com:86c6c26e31509a0e054bca8965b100e7.git
+[submodule "snippets/tiny-crc-32"]
+	path = snippets/tiny-crc-32
+	url = git@gist.github.com:f2302adad195bcbcdd825ed9a6a2065c.git
