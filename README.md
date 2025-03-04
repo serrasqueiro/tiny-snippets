@@ -277,3 +277,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:75a422121b595f89408b76a7c9048bc2.git snippets/windows-atalhos`
 1. [snippets/tiny-crc-32](https://gist.github.com/serrasqueiro/f2302adad195bcbcdd825ed9a6a2065c),
    + `git submodule add git@gist.github.com:f2302adad195bcbcdd825ed9a6a2065c.git snippets/tiny-crc-32`
+1. [snippets/youtube-alpha](https://gist.github.com/serrasqueiro/f54f224114200f9964483981b6397000),
+   + `git submodule add git@gist.github.com:f54f224114200f9964483981b6397000.git snippets/youtube-alpha`

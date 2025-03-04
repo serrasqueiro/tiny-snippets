@@ -382,3 +382,6 @@
 [submodule "snippets/tiny-crc-32"]
 	path = snippets/tiny-crc-32
 	url = git@gist.github.com:f2302adad195bcbcdd825ed9a6a2065c.git
+[submodule "snippets/youtube-alpha"]
+	path = snippets/youtube-alpha
+	url = git@gist.github.com:f54f224114200f9964483981b6397000.git
