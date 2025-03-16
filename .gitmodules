@@ -385,3 +385,6 @@
 [submodule "snippets/youtube-alpha"]
 	path = snippets/youtube-alpha
 	url = git@gist.github.com:f54f224114200f9964483981b6397000.git
+[submodule "snippets/tempestades"]
+	path = snippets/tempestades
+	url = git@gist.github.com:df9e8c1286e4c3ed78964ea9845ca843.git

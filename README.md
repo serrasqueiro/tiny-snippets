@@ -279,3 +279,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:f2302adad195bcbcdd825ed9a6a2065c.git snippets/tiny-crc-32`
 1. [snippets/youtube-alpha](https://gist.github.com/serrasqueiro/f54f224114200f9964483981b6397000),
    + `git submodule add git@gist.github.com:f54f224114200f9964483981b6397000.git snippets/youtube-alpha`
+1. [snippets/tempestades](https://gist.github.com/serrasqueiro/df9e8c1286e4c3ed78964ea9845ca843),
+   + `git submodule add git@gist.github.com:df9e8c1286e4c3ed78964ea9845ca843.git snippets/tempestades`
