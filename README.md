@@ -281,3 +281,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:f54f224114200f9964483981b6397000.git snippets/youtube-alpha`
 1. [snippets/tempestades](https://gist.github.com/serrasqueiro/df9e8c1286e4c3ed78964ea9845ca843),
    + `git submodule add git@gist.github.com:df9e8c1286e4c3ed78964ea9845ca843.git snippets/tempestades`
+1. [snippets/liga-portugal](https://gist.github.com/serrasqueiro/712669161699c4296b88d712019f1a80),
+   + `git submodule add git@gist.github.com:712669161699c4296b88d712019f1a80.git snippets/liga-portugal`

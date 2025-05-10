@@ -388,3 +388,6 @@
 [submodule "snippets/tempestades"]
 	path = snippets/tempestades
 	url = git@gist.github.com:df9e8c1286e4c3ed78964ea9845ca843.git
+[submodule "snippets/liga-portugal"]
+	path = snippets/liga-portugal
+	url = git@gist.github.com:712669161699c4296b88d712019f1a80.git
