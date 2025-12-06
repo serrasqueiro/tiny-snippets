@@ -391,3 +391,6 @@
 [submodule "snippets/liga-portugal"]
 	path = snippets/liga-portugal
 	url = git@gist.github.com:712669161699c4296b88d712019f1a80.git
+[submodule "snippets/damn-after-local"]
+	path = snippets/damn-after-local
+	url = git@gist.github.com:39f993cfffee68780842e76e01678533.git

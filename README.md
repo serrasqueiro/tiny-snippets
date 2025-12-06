@@ -283,3 +283,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:df9e8c1286e4c3ed78964ea9845ca843.git snippets/tempestades`
 1. [snippets/liga-portugal](https://gist.github.com/serrasqueiro/712669161699c4296b88d712019f1a80),
    + `git submodule add git@gist.github.com:712669161699c4296b88d712019f1a80.git snippets/liga-portugal`
+1. [snippets/damn-after-local](https://gist.github.com/serrasqueiro/39f993cfffee68780842e76e01678533),
+   + `git submodule add git@gist.github.com:39f993cfffee68780842e76e01678533.git snippets/damn-after-local`
