@@ -394,3 +394,6 @@
 [submodule "snippets/damn-after-local"]
 	path = snippets/damn-after-local
 	url = git@gist.github.com:39f993cfffee68780842e76e01678533.git
+[submodule "snippets/windows-tail"]
+	path = snippets/windows-tail
+	url = git@gist.github.com:da5fbad7916863a78b75f6a7023bc779.git
