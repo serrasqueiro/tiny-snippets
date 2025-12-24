@@ -397,3 +397,6 @@
 [submodule "snippets/windows-tail"]
 	path = snippets/windows-tail
 	url = git@gist.github.com:da5fbad7916863a78b75f6a7023bc779.git
+[submodule "snippets/virtualbox-disks"]
+	path = snippets/virtualbox-disks
+	url = git@gist.github.com:59bcae507f55602070fe9b3746710598.git

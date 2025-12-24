@@ -287,3 +287,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:39f993cfffee68780842e76e01678533.git snippets/damn-after-local`
 1. [snippets/windows-tail](https://gist.github.com/serrasqueiro/da5fbad7916863a78b75f6a7023bc779),
    + `git submodule add git@gist.github.com:da5fbad7916863a78b75f6a7023bc779.git snippets/windows-tail`
+1. [snippets/virtualbox-disks](https://gist.github.com/serrasqueiro/59bcae507f55602070fe9b3746710598),
+   + `git submodule add git@gist.github.com:59bcae507f55602070fe9b3746710598.git snippets/virtualbox-disks`
