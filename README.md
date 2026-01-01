@@ -289,3 +289,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:da5fbad7916863a78b75f6a7023bc779.git snippets/windows-tail`
 1. [snippets/virtualbox-disks](https://gist.github.com/serrasqueiro/59bcae507f55602070fe9b3746710598),
    + `git submodule add git@gist.github.com:59bcae507f55602070fe9b3746710598.git snippets/virtualbox-disks`
+1. [snippets/elegant-clock](https://gist.github.com/serrasqueiro/88d6576dc3860b19a39854e96b875ecc),
+   + `git submodule add git@gist.github.com:88d6576dc3860b19a39854e96b875ecc.git snippets/elegant-clock`

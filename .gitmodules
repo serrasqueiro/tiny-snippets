@@ -400,3 +400,6 @@
 [submodule "snippets/virtualbox-disks"]
 	path = snippets/virtualbox-disks
 	url = git@gist.github.com:59bcae507f55602070fe9b3746710598.git
+[submodule "snippets/elegant-clock"]
+	path = snippets/elegant-clock
+	url = git@gist.github.com:88d6576dc3860b19a39854e96b875ecc.git
