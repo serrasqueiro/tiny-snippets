@@ -403,3 +403,6 @@
 [submodule "snippets/elegant-clock"]
 	path = snippets/elegant-clock
 	url = git@gist.github.com:88d6576dc3860b19a39854e96b875ecc.git
+[submodule "snippets/submodulecleaner"]
+	path = snippets/submodulecleaner
+	url = git@gist.github.com:3fff85f0fca07f36d7ead661aa6274a5.git
