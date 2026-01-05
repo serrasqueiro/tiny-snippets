@@ -406,3 +406,6 @@
 [submodule "snippets/submodulecleaner"]
 	path = snippets/submodulecleaner
 	url = git@gist.github.com:3fff85f0fca07f36d7ead661aa6274a5.git
+[submodule "snippets/bash-alias"]
+	path = snippets/bash-alias
+	url = git@gist.github.com:4a268047eb5ffb4991ef0c4233aad552.git
