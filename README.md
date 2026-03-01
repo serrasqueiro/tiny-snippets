@@ -295,3 +295,7 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:3fff85f0fca07f36d7ead661aa6274a5.git snippets/submodulecleaner`
 1. [snippets/bash-alias](https://gist.github.com/serrasqueiro/4a268047eb5ffb4991ef0c4233aad552),
    + `git submodule add git@gist.github.com:4a268047eb5ffb4991ef0c4233aad552.git snippets/bash-alias`
+1. [snippets/calao](https://gist.github.com/serrasqueiro/9e113e3653ee7611a97730d05a473845),
+   + `git submodule add git@gist.github.com:9e113e3653ee7611a97730d05a473845.git snippets/calao`
+1. [snippets/videos-comicos](https://gist.github.com/serrasqueiro/96d577e4ba8e4fdabee77cca85124cec),
+   + `git submodule add git@gist.github.com:96d577e4ba8e4fdabee77cca85124cec.git snippets/videos-comicos`
