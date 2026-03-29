@@ -415,3 +415,6 @@
 [submodule "snippets/videos-comicos"]
 	path = snippets/videos-comicos
 	url = git@gist.github.com:96d577e4ba8e4fdabee77cca85124cec.git
+[submodule "snippets/just-pure-run"]
+	path = snippets/just-pure-run
+	url = git@gist.github.com:dad132625e87e327a9f21e1fa6894151.git
