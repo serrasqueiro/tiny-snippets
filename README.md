@@ -301,3 +301,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:96d577e4ba8e4fdabee77cca85124cec.git snippets/videos-comicos`
 1. [snippets/just-pure-run](https://gist.github.com/serrasqueiro/dad132625e87e327a9f21e1fa6894151),
    + `git submodule add git@gist.github.com:dad132625e87e327a9f21e1fa6894151.git snippets/just-pure-run`
+1. [snippets/mytitlecase](https://gist.github.com/serrasqueiro/9c14acdc50315307e875955e15192abe),
+   + `git submodule add git@gist.github.com:9c14acdc50315307e875955e15192abe.git snippets/mytitlecase`

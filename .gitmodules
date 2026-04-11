@@ -418,3 +418,6 @@
 [submodule "snippets/just-pure-run"]
 	path = snippets/just-pure-run
 	url = git@gist.github.com:dad132625e87e327a9f21e1fa6894151.git
+[submodule "snippets/mytitlecase"]
+	path = snippets/mytitlecase
+	url = git@gist.github.com:9c14acdc50315307e875955e15192abe.git
