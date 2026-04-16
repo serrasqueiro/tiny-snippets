@@ -421,3 +421,6 @@
 [submodule "snippets/mytitlecase"]
 	path = snippets/mytitlecase
 	url = git@gist.github.com:9c14acdc50315307e875955e15192abe.git
+[submodule "snippets/notepadwin"]
+	path = snippets/notepadwin
+	url = git@gist.github.com:09cc502015424dbd4e52c0639d3c5298.git
