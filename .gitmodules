@@ -424,3 +424,6 @@
 [submodule "snippets/notepadwin"]
 	path = snippets/notepadwin
 	url = git@gist.github.com:09cc502015424dbd4e52c0639d3c5298.git
+[submodule "snippets/gist-identifiers"]
+	path = snippets/gist-identifiers
+	url = git@gist.github.com:fb4cf26feb97ac4360742b58cc9e47da.git
