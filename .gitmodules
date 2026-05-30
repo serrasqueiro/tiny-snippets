@@ -427,3 +427,6 @@
 [submodule "snippets/gist-identifiers"]
 	path = snippets/gist-identifiers
 	url = git@gist.github.com:fb4cf26feb97ac4360742b58cc9e47da.git
+[submodule "snippets/ibanform"]
+	path = snippets/ibanform
+	url = git@gist.github.com:9beef525d9bb45f31ae8545e3b17370b.git

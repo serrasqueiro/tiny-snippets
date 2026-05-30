@@ -307,3 +307,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:09cc502015424dbd4e52c0639d3c5298.git snippets/notepadwin`
 1. [snippets/gist-identifiers](https://gist.github.com/serrasqueiro/fb4cf26feb97ac4360742b58cc9e47da),
    + `git submodule add git@gist.github.com:fb4cf26feb97ac4360742b58cc9e47da.git snippets/gist-identifiers`
+1. [snippets/ibanform](https://gist.github.com/serrasqueiro/9beef525d9bb45f31ae8545e3b17370b),
+   + `git submodule add git@gist.github.com:9beef525d9bb45f31ae8545e3b17370b.git snippets/ibanform`
