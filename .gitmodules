@@ -433,3 +433,6 @@
 [submodule "snippets/manual-wc"]
 	path = snippets/manual-wc
 	url = git@gist.github.com:d291c2c627f85716e712417803787307.git
+[submodule "snippets/multidisc"]
+	path = snippets/multidisc
+	url = git@gist.github.com:aa7961271c0750df22f890b226b9e504.git

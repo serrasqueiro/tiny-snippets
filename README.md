@@ -311,3 +311,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:9beef525d9bb45f31ae8545e3b17370b.git snippets/ibanform`
 1. [snippets/manual-wc](https://gist.github.com/serrasqueiro/d291c2c627f85716e712417803787307),
    + `git submodule add git@gist.github.com:d291c2c627f85716e712417803787307.git snippets/manual-wc`
+1. [snippets/multidisc](https://gist.github.com/serrasqueiro/aa7961271c0750df22f890b226b9e504),
+   + `git submodule add git@gist.github.com:aa7961271c0750df22f890b226b9e504.git snippets/multidisc`
