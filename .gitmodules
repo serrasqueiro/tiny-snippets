@@ -436,3 +436,6 @@
 [submodule "snippets/multidisc"]
 	path = snippets/multidisc
 	url = git@gist.github.com:aa7961271c0750df22f890b226b9e504.git
+[submodule "snippets/ipma-series"]
+	path = snippets/ipma-series
+	url = git@gist.github.com:f97621341ce908515dcc9aa2bf5a7e22.git

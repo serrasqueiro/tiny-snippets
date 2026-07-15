@@ -313,3 +313,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:d291c2c627f85716e712417803787307.git snippets/manual-wc`
 1. [snippets/multidisc](https://gist.github.com/serrasqueiro/aa7961271c0750df22f890b226b9e504),
    + `git submodule add git@gist.github.com:aa7961271c0750df22f890b226b9e504.git snippets/multidisc`
+1. [snippets/ipma-series](https://gist.github.com/serrasqueiro/f97621341ce908515dcc9aa2bf5a7e22),
+   + `git submodule add git@gist.github.com:f97621341ce908515dcc9aa2bf5a7e22.git snippets/ipma-series`
