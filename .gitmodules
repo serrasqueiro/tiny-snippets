@@ -439,3 +439,6 @@
 [submodule "snippets/ipma-series"]
 	path = snippets/ipma-series
 	url = git@gist.github.com:f97621341ce908515dcc9aa2bf5a7e22.git
+[submodule "snippets/benfica-socios"]
+	path = snippets/benfica-socios
+	url = git@gist.github.com:7af2182d69d285c1f989cf6759343266.git
