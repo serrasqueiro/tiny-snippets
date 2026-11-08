@@ -442,3 +442,6 @@
 [submodule "snippets/benfica-socios"]
 	path = snippets/benfica-socios
 	url = git@gist.github.com:7af2182d69d285c1f989cf6759343266.git
+[submodule "snippets/carro-radiador"]
+	path = snippets/carro-radiador
+	url = git@gist.github.com:7595eef742f3eb0a342793a6ddf4c576.git

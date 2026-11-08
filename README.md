@@ -315,3 +315,7 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:aa7961271c0750df22f890b226b9e504.git snippets/multidisc`
 1. [snippets/ipma-series](https://gist.github.com/serrasqueiro/f97621341ce908515dcc9aa2bf5a7e22),
    + `git submodule add git@gist.github.com:f97621341ce908515dcc9aa2bf5a7e22.git snippets/ipma-series`
+1. [snippets/benfica-socios](https://gist.github.com/serrasqueiro/7af2182d69d285c1f989cf6759343266),
+   + `git submodule add git@gist.github.com:7af2182d69d285c1f989cf6759343266.git snippets/benfica-socios`
+1. [snippets/carro-radiador](https://gist.github.com/serrasqueiro/7595eef742f3eb0a342793a6ddf4c576),
+   + `git submodule add git@gist.github.com:7595eef742f3eb0a342793a6ddf4c576.git snippets/carro-radiador`
