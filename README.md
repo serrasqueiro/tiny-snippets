@@ -321,3 +321,5 @@ Here are the list of historical adds.
    + `git submodule add git@gist.github.com:7595eef742f3eb0a342793a6ddf4c576.git snippets/carro-radiador`
 1. [snippets/comparando](https://gist.github.com/serrasqueiro/96b2acc82861e4dd65f5afd9243477fb),
    + `git submodule add git@gist.github.com:96b2acc82861e4dd65f5afd9243477fb.git snippets/comparando`
+1. [snippets/groove-plays](https://gist.github.com/serrasqueiro/3e0701323dfe95544f3561edfa3465b6),
+   + `git submodule add git@gist.github.com:3e0701323dfe95544f3561edfa3465b6.git snippets/groove-plays`

@@ -448,3 +448,6 @@
 [submodule "snippets/comparando"]
 	path = snippets/comparando
 	url = git@gist.github.com:96b2acc82861e4dd65f5afd9243477fb.git
+[submodule "snippets/groove-plays"]
+	path = snippets/groove-plays
+	url = git@gist.github.com:3e0701323dfe95544f3561edfa3465b6.git
